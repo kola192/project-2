@@ -215,11 +215,11 @@
               <figure>
                 <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">App 1</a></h4>
+                <h4><a href="news-details.php">App 1</a></h4>
                 <p>App</p>
               </div>
             </div>
@@ -230,11 +230,11 @@
               <figure>
                 <img src="../assets/img/news/web3.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/web3.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 3"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">Web 3</a></h4>
+                <h4><a href="news-details.php">Web 3</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -245,11 +245,11 @@
               <figure>
                 <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="App 2"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">App 2</a></h4>
+                <h4><a href="news-details.php">App 2</a></h4>
                 <p>App</p>
               </div>
             </div>
@@ -260,11 +260,11 @@
               <figure>
                 <img src="../assets/img/news/card2.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/card2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 2"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">Card 2</a></h4>
+                <h4><a href="news-details.php">Card 2</a></h4>
                 <p>Card</p>
               </div>
             </div>
@@ -275,11 +275,11 @@
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 2"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">Web 2</a></h4>
+                <h4><a href="news-details.php">Web 2</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -290,11 +290,11 @@
               <figure>
                 <img src="../assets/img/news/app3.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/app3.jpg" class="link-preview venobox" data-gall="newsGallery" title="App 3"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">App 3</a></h4>
+                <h4><a href="news-details.php">App 3</a></h4>
                 <p>App</p>
               </div>
             </div>
@@ -305,11 +305,11 @@
               <figure>
                 <img src="../assets/img/news/card1.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/card1.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 1"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">Card 1</a></h4>
+                <h4><a href="news-details.php">Card 1</a></h4>
                 <p>Card</p>
               </div>
             </div>
@@ -320,11 +320,11 @@
               <figure>
                 <img src="../assets/img/news/card3.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/card3.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 3"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">Card 3</a></h4>
+                <h4><a href="news-details.php">Card 3</a></h4>
                 <p>Card</p>
               </div>
             </div>
@@ -335,11 +335,11 @@
               <figure>
                 <img src="../assets/img/news/web1.jpg" class="img-fluid" alt="">
                 <a href="../assets/img/news/web1.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-                <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.html">Web 1</a></h4>
+                <h4><a href="news-details.php">Web 1</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -350,187 +350,6 @@
       </div>
     </section><!-- End News Section -->
 
-    <!-- ======= Our Clients Section ======= -->
-    <!-- <section id="clients">
-      <div class="container" data-aos="zoom-in">
-
-        <header class="section-header">
-          <h3>Our Clients</h3>
-        </header>
-
-        <div class="owl-carousel clients-carousel">
-          <img src="../assets/img/clients/client-1.png" alt="">
-          <img src="../assets/img/clients/client-2.png" alt="">
-          <img src="../assets/img/clients/client-3.png" alt="">
-          <img src="../assets/img/clients/client-4.png" alt="">
-          <img src="../assets/img/clients/client-5.png" alt="">
-          <img src="../assets/img/clients/client-6.png" alt="">
-          <img src="../assets/img/clients/client-7.png" alt="">
-          <img src="../assets/img/clients/client-8.png" alt="">
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Our Clients Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <!-- <section id="testimonials" class="section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <header class="section-header">
-          <h3>Testimonials</h3>
-        </header>
-
-        <div class="owl-carousel testimonials-carousel">
-
-          <div class="testimonial-item">
-            <img src="../assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
-            <p>
-              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="../assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
-            <p>
-              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="../assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
-            <p>
-              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="../assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
-            <p>
-              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="../assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-            <p>
-              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Testimonials Section -->
-
-    <!-- ======= Team Section ======= -->
-    <!-- <section id="team">
-      <div class="container" data-aos="fade-up">
-        <div class="section-header">
-          <h3>Team</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <img src="../assets/img/team-1.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Walter White</h4>
-                  <span>Chief Executive Officer</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <img src="../assets/img/team-2.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <img src="../assets/img/team-3.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <img src="../assets/img/team-4.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Team Section -->
 
   </main><!-- End #main -->
 

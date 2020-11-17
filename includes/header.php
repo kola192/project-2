@@ -50,7 +50,13 @@
               <li class="active"><a href="index.php">Home</a></li>
               <li><a href="about.php">About Us</a></li>
               <li><a href="index.php#services">Services</a></li>
-              <li><a href="#">Projects</a></li>
+              <li class="drop-down"><a href="">Programs</a>
+                <ul>
+                  <li><a href="peace.php">Peace Building</a></li>
+                  <li><a href="woman.php">Woman's Empowerment</a></li>
+                  <li><a href="awareness.php">Community Awareness Programs</a></li>
+                </ul>
+              </li>
               <li class="drop-down"><a href="">Exhibition</a>
                 <ul>
                   <li><a href="#">Pictures</a></li>
