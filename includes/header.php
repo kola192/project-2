@@ -46,10 +46,10 @@
           <!-- <a href="index.php" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
           <nav class="nav-menu d-none d-lg-block">
-            <ul>
+            <ul class="align-items-center">
               <li class="active"><a href="index.php">Home</a></li>
               <li><a href="about.php">About Us</a></li>
-              <li><a href="#services">Services</a></li>
+              <li><a href="index.php#services">Services</a></li>
               <li><a href="#">Projects</a></li>
               <li class="drop-down"><a href="">Exhibition</a>
                 <ul>
@@ -70,7 +70,7 @@
               </li>
               
               <li><a href="contact.php">Contact Us</a></li>
-              <li><a href="#" lang="ar">عربي</a></li>
+              <li class="d-flex text-white align-items-center"><a class="btn-lang active" href="#" lang="ar">Eng</a>|<a class="btn-lang align-self-start" href="#" lang="ar">عربي</a></li>
 
             </ul>
           </nav><!-- .nav-menu -->

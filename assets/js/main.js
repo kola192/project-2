@@ -1,9 +1,3 @@
-/**
-* Template Name: BizPage - v3.1.1
-* Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function($) {
   "use strict";
 
@@ -178,16 +172,16 @@
   });
 
   // Porfolio isotope and filter
-  var portfolioIsotope = $('.portfolio-container').isotope({
-    itemSelector: '.portfolio-item',
+  var newsIsotope = $('.news-container').isotope({
+    itemSelector: '.news-item',
     layoutMode: 'fitRows'
   });
 
-  $('#portfolio-flters li').on('click', function() {
-    $("#portfolio-flters li").removeClass('filter-active');
+  $('#news-flters li').on('click', function() {
+    $("#news-flters li").removeClass('filter-active');
     $(this).addClass('filter-active');
 
-    portfolioIsotope.isotope({
+    newsIsotope.isotope({
       filter: $(this).data('filter')
     });
     aos_init();
@@ -224,8 +218,8 @@
     items: 1
   });
 
-  // Portfolio details carousel
-  $(".portfolio-details-carousel").owlCarousel({
+  // news details carousel
+  $(".news-details-carousel").owlCarousel({
     autoplay: true,
     dots: true,
     loop: true,
