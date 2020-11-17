@@ -1,3 +1,7 @@
+<!-- including header -->
+<?php include('../includes/header.php') ?>
+
+
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="section-bg">
     <div class="container" data-aos="fade-up">
@@ -66,3 +70,7 @@
 
     </div>
   </section><!-- End Contact Section -->
+
+
+<!-- including footer -->
+<?php include('../includes/footer.php') ?>

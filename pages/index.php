@@ -1,84 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- including header -->
+<?php include('../includes/header.php')?>
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Reyada.org</title>
-
-  <!-- important meta tags for SEO -->
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700&family=Amiri:wght@400;700" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="assets/vendor/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-</head>
-
-<body>
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top header-transparent">
-    <div class="container-fluid">
-
-      <div class="row justify-content-center">
-        <div class="col-xl-11 d-flex align-items-center">
-          <h1 class="logo mr-auto"><a href="index.html">Reyada</a></h1>
-          <!-- Uncomment below if you prefer to use an image logo -->
-          <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
-          <nav class="nav-menu d-none d-lg-block">
-            <ul>
-              <li class="active"><a href="index.html">Home</a></li>
-              <li><a href="about.html#about">About Us</a></li>
-              <li><a href="#services">Services</a></li>
-              <li><a href="#portfolio">Projects</a></li>
-              <li class="drop-down"><a href="">Exhibition</a>
-                <ul>
-                  <li><a href="#">Pictures</a></li>
-                  <li><a href="#">Videos</a></li>
-                  <li><a href="#">Posts</a></li>
-                </ul>
-              </li>
-              <li class="drop-down"><a href="">Branches</a>
-                <ul>
-                  <li><a href="#">Red Sea</a></li>
-                  <li><a href="#">White Nile</a></li>
-                  <li><a href="#">Blue Nile</a></li>
-                  <li><a href="#">North Darfour</a></li>
-                  <li><a href="#">West Darfour</a></li>
-                  <li><a href="#">Khartoum</a></li>
-                </ul>
-              </li>
-              
-              <li><a href="#contact">Contact Us</a></li>
-              <li><a href="#" lang="ar">عربي</a></li>
-
-            </ul>
-          </nav><!-- .nav-menu -->
-        </div>
-      </div>
-
-    </div>
-  </header><!-- End Header -->
 
   <!-- ======= Intro Section ======= -->
   <section id="intro">
@@ -89,7 +11,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(assets/img/intro-carousel/1.jpg)">
+          <div class="carousel-item active" style="background-image: url(../assets/img/intro-carousel/1.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Reyada Voluntary Center</h2>
@@ -99,7 +21,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/2.jpg)">
+          <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/2.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Economic Development</h2>
@@ -109,7 +31,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/3.jpg)">
+          <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/3.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Health and Children</h2>
@@ -119,7 +41,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/4.jpg)">
+          <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/4.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Training and Capacity Building</h2>
@@ -129,7 +51,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/5.jpg)">
+          <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/5.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Peace and conflict resolution</h2>
@@ -242,15 +164,15 @@
                   <div class="carousel-item active">
                       <div class="wrapper">
                           <div class="undp">
-                              <img src="assets/img/undp.jpg" alt="undp">
+                              <img src="../assets/img/undp.jpg" alt="undp">
                               <h4>UNDP</h4>
                           </div>
                           <div class="concordis">
-                              <img src="assets/img/concordis.png" alt="concordis">
+                              <img src="../assets/img/concordis.png" alt="concordis">
                               <h4>Concordis</h4>
                           </div>
                           <div class="unhcr">
-                              <img src="assets/img/unhcr.jpg" alt="unhcr">
+                              <img src="../assets/img/unhcr.jpg" alt="unhcr">
                               <h4>UNHCR</h4>
                           </div>
                       </div>
@@ -258,15 +180,15 @@
                   <div class="carousel-item">
                       <div class="wrapper">
                           <div class="hac">
-                              <img src="assets/img/HAC.jpg" alt="hunaniterian aid commision">
+                              <img src="../assets/img/HAC.jpg" alt="hunaniterian aid commision">
                               <h4>HAC</h4>
                           </div>
                           <div class="save-children">
-                              <img src="assets/img/save-the-children.png" alt="save the children">
+                              <img src="../assets/img/save-the-children.png" alt="save the children">
                               <h4>Save The Children</h4>
                           </div>
                           <div class="unicef">
-                              <img src="assets/img/unicef.jpg" alt="unicef">
+                              <img src="../assets/img/unicef.jpg" alt="unicef">
                               <h4>UNICEF</h4>
                           </div>
                       </div>
@@ -291,8 +213,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-app">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -306,8 +228,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-web">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/web3.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/web3.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/web3.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/web3.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 3"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -321,8 +243,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-app">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/app2.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="App 2"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="App 2"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -336,8 +258,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/card2.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/card2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/card2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/card2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 2"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -351,8 +273,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-web">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/web2.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 2"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 2"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -366,8 +288,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-app">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/app3.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/app3.jpg" class="link-preview venobox" data-gall="newsGallery" title="App 3"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app3.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app3.jpg" class="link-preview venobox" data-gall="newsGallery" title="App 3"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -381,8 +303,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/card1.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/card1.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 1"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/card1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/card1.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 1"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -396,8 +318,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/card3.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/card3.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 3"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/card3.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/card3.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 3"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -411,8 +333,8 @@
           <div class="col-lg-4 col-md-6 news-item filter-web">
             <div class="news-wrap">
               <figure>
-                <img src="assets/img/news/web1.jpg" class="img-fluid" alt="">
-                <a href="assets/img/news/web1.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/web1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/web1.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 1"><i class="ion ion-eye"></i></a>
                 <a href="news-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
@@ -437,14 +359,14 @@
         </header>
 
         <div class="owl-carousel clients-carousel">
-          <img src="assets/img/clients/client-1.png" alt="">
-          <img src="assets/img/clients/client-2.png" alt="">
-          <img src="assets/img/clients/client-3.png" alt="">
-          <img src="assets/img/clients/client-4.png" alt="">
-          <img src="assets/img/clients/client-5.png" alt="">
-          <img src="assets/img/clients/client-6.png" alt="">
-          <img src="assets/img/clients/client-7.png" alt="">
-          <img src="assets/img/clients/client-8.png" alt="">
+          <img src="../assets/img/clients/client-1.png" alt="">
+          <img src="../assets/img/clients/client-2.png" alt="">
+          <img src="../assets/img/clients/client-3.png" alt="">
+          <img src="../assets/img/clients/client-4.png" alt="">
+          <img src="../assets/img/clients/client-5.png" alt="">
+          <img src="../assets/img/clients/client-6.png" alt="">
+          <img src="../assets/img/clients/client-7.png" alt="">
+          <img src="../assets/img/clients/client-8.png" alt="">
         </div>
 
       </div>
@@ -462,57 +384,57 @@
         <div class="owl-carousel testimonials-carousel">
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
             <h3>Saul Goodman</h3>
             <h4>Ceo &amp; Founder</h4>
             <p>
-              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
               Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
             <h3>Sara Wilsson</h3>
             <h4>Designer</h4>
             <p>
-              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
               Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
             <h3>Jena Karlis</h3>
             <h4>Store Owner</h4>
             <p>
-              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
               Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
             <h3>Matt Brandon</h3>
             <h4>Freelancer</h4>
             <p>
-              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
               Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
             <h3>John Larson</h3>
             <h4>Entrepreneur</h4>
             <p>
-              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              <img src="../assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
               Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+              <img src="../assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
             </p>
           </div>
 
@@ -534,7 +456,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/team-1.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/team-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Walter White</h4>
@@ -552,7 +474,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/team-2.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/team-2.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Sarah Jhonson</h4>
@@ -570,7 +492,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/team-3.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/team-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>William Anderson</h4>
@@ -588,7 +510,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <img src="assets/img/team-4.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/team-4.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Amanda Jepson</h4>
@@ -612,95 +534,8 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-info">
-            <h3>BizPage</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
-          </div>
+<!-- including footer -->
+<?php include('../includes/footer.php')?>
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Services</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
-            <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
-            </p>
-
-            <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
-            </div>
-
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong>BizPage</strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!--
-        All the links in the footer should remain intact.
-        You can delete the links only if you purchased the pro version.
-        Licensing information: https://bootstrapmade.com/license/
-        Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=BizPage
-      -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-  <!-- Uncomment below i you want to use a preloader -->
-  <!-- <div id="preloader"></div> -->
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
-</body>
-
-</html>
+  
