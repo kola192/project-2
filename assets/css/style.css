@@ -1,10 +1,3 @@
-/**
-* Template Name: BizPage - v3.1.1
-* Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -928,7 +921,7 @@ section {
 /* News Section
 --------------------------------*/
 #news {
-  padding: 160px 0;
+  padding: 60px 0;
 }
 
 #news #news-flters {
@@ -1156,6 +1149,38 @@ section {
     margin-top: 30px;
   }
 }
+
+/* Pictures Section
+--------------------------------*/
+.pictures {
+  background: #fff;
+}
+
+#news.pictures .news-item figure .link-preview {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#news.pictures .news-item {
+  height: auto;
+  padding-bottom: 30px;
+}
+
+#news.pictures .news-item figure {
+  border-radius: 4px;
+}
+
+#news.pictures .news-wrap {
+  overflow: hidden;
+  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+  transition: 0.3s;
+}
+
+#news.pictures .news-wrap:hover {
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
+}
+
 
 
 /* Contact Section
@@ -1490,3 +1515,6 @@ section {
   font-size: 13px;
   color: #ddd;
 }
+
+
+

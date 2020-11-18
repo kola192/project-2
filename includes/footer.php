@@ -15,7 +15,7 @@
               <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About us</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="index.php#services">Services</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Projects</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="peace.php">Programs</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="contact.php">Contact Us</a></li>
             </ul>
           </div>
@@ -39,21 +39,6 @@
             </div>
 
           </div>
-
-
-          <!-- can be uncommented -->
-
-          <!-- <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Branches</h4>
-            <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Red Se</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="index.php">White Nile</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="about.php">Blue Nile</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="index.php#services">North Darfour</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">West Darfour</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="contact.php">Khartoum</a></li>
-            </ul>
-          </div>             -->
 
         </div>
       </div>

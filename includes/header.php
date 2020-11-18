@@ -50,18 +50,18 @@
               <li class="active"><a href="index.php">Home</a></li>
               <li><a href="about.php">About Us</a></li>
               <li><a href="index.php#services">Services</a></li>
-              <li class="drop-down"><a href="">Programs</a>
+              <li class="drop-down"><a href="#">Programs</a>
                 <ul>
                   <li><a href="peace.php">Peace Building</a></li>
                   <li><a href="woman.php">Woman's Empowerment</a></li>
                   <li><a href="awareness.php">Community Awareness Programs</a></li>
                 </ul>
               </li>
-              <li class="drop-down"><a href="">Exhibition</a>
+              <li class="drop-down"><a href="#">Exhibition</a>
                 <ul>
-                  <li><a href="#">Pictures</a></li>
-                  <li><a href="#">Videos</a></li>
-                  <li><a href="#">Posts</a></li>
+                  <li><a href="pictures.php">Pictures</a></li>
+                  <li><a href="videos.php">Videos</a></li>
+                  <li><a href="posts.php">Posts</a></li>
                 </ul>
               </li>
               <li class="drop-down"><a href="">Branches</a>
