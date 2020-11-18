@@ -28,110 +28,101 @@
 
         <div class="row news-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-4 col-md-6 news-item filter-card">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Gallary"><i class="ion ion-eye"></i></a>
               </figure>
             </div>
           </div>

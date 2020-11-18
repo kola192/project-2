@@ -28,9 +28,8 @@
         <div class="news-details-container">
 
           <div class="owl-carousel news-details-carousel">
-            <img src="../assets/img/news/news-details-1.jpg" class="img-fluid" alt="">
-            <img src="../assets/img/news/news-details-2.jpg" class="img-fluid" alt="">
-            <img src="../assets/img/news/news-details-3.jpg" class="img-fluid" alt="">
+            <img src="../assets/img/awareness.jpg" class="img-fluid" alt="">
+            <img src="../assets/img/intro-carousel/carousel2.jpg" class="img-fluid" alt="">
           </div>
 
         </div>

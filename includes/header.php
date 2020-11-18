@@ -63,18 +63,7 @@
                   <li><a href="videos.php">Videos</a></li>
                   <li><a href="posts.php">Posts</a></li>
                 </ul>
-              </li>
-              <li class="drop-down"><a href="">Branches</a>
-                <ul>
-                  <li><a href="#">Red Sea</a></li>
-                  <li><a href="#">White Nile</a></li>
-                  <li><a href="#">Blue Nile</a></li>
-                  <li><a href="#">North Darfour</a></li>
-                  <li><a href="#">West Darfour</a></li>
-                  <li><a href="#">Khartoum</a></li>
-                </ul>
-              </li>
-              
+              </li>              
               <li><a href="contact.php">Contact Us</a></li>
               <li class="d-flex text-white align-items-center"><a class="btn-lang active" href="#" lang="ar">Eng</a>|<a class="btn-lang align-self-start" href="#" lang="ar">عربي</a></li>
 

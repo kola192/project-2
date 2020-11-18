@@ -32,7 +32,7 @@
               <img src="../assets/img/about-plan.jpg" alt="" class="img-fluid">
               <div class="icon"><i class="ion-ios-list-outline"></i></div>
             </div>
-            <h2 class="title"><a href="#">Our Plan</a></h2>
+            <h2 class="title"><a href="#">Our Values</a></h2>
             <p>
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
             </p>
