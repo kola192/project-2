@@ -9,11 +9,11 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>news Details</h2>
+          <h2>News title</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li><a href="index.php#news">news</a></li>
-            <li>news Details</li>
+            <li><a href="posts.php">news</a></li>
+            <li>News title</li>
           </ol>
         </div>
 
@@ -27,27 +27,23 @@
         <div class="news-details-container">
 
           <div class="owl-carousel news-details-carousel">
-            <img src="../assets/img/news/news-details-1.jpg" class="img-fluid" alt="">
-            <img src="../assets/img/news/news-details-2.jpg" class="img-fluid" alt="">
-            <img src="../assets/img/news/news-details-3.jpg" class="img-fluid" alt="">
-          </div>
-
-          <div class="news-info">
-            <h3>Project information</h3>
-            <ul>
-              <li><strong>Category</strong>: Web design</li>
-              <li><strong>Client</strong>: ASU Company</li>
-              <li><strong>Project date</strong>: 01 March, 2020</li>
-              <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
-            </ul>
+            <img src="https://source.unsplash.com/user/erondu/1600x600" class="img-fluid" alt="">
+            <!-- <img src="../assets/img/news/news-details-2.jpg" class="img-fluid" alt="">
+            <img src="../assets/img/news/news-details-3.jpg" class="img-fluid" alt=""> -->
           </div>
 
         </div>
 
         <div class="news-description">
-          <h2>This is an example of news detail</h2>
+          <h2>News Title</h2>
           <p>
-            Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam error qui repudiandae porro suscipit cupiditate eveniet dicta. Quibusdam culpa blanditiis iste. Dolorem blanditiis cupiditate molestiae expedita ipsa praesentium recusandae facilis magni ad eum rem illo optio ullam placeat officiis repellat, fugit reprehenderit totam, vero quis quas, repellendus libero nulla? Distinctio?
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae ad suscipit officia voluptatum quis, nostrum fuga dolorem mollitia sed et officiis, consequuntur non doloribus corrupti assumenda dolor! Hic voluptatum corporis dolores eveniet id, ipsum eligendi temporibus alias a saepe, repellat enim fugit consequuntur praesentium adipisci eaque! Accusamus dignissimos unde laborum amet! Similique, tempora voluptatem minus aspernatur reprehenderit repellendus dolores consectetur unde hic numquam nihil ex velit, quos voluptate optio adipisci dolor, aliquid eaque quaerat commodi laborum ab. Reprehenderit sequi aliquid voluptatem quia? Molestias facilis ex repudiandae ea? Obcaecati et quas libero? Dicta quibusdam est, veritatis eligendi voluptas voluptates. Nam, itaque?
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam error qui repudiandae porro suscipit cupiditate eveniet dicta. Quibusdam culpa blanditiis iste. Dolorem blanditiis cupiditate molestiae expedita ipsa praesentium recusandae facilis magni ad eum rem illo optio ullam placeat officiis repellat, fugit reprehenderit totam, vero quis quas, repellendus libero nulla? Distinctio?
           </p>
         </div>
       </div>
