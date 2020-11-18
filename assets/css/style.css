@@ -998,7 +998,7 @@ section {
 }
 
 #news .news-item figure .link-preview i, #news .news-item figure .link-details i {
-  padding-top: 6px;
+  padding-top: 7px;
   font-size: 22px;
   color: #333;
 }
@@ -1169,6 +1169,7 @@ section {
 
 #news.pictures .news-item figure {
   border-radius: 4px;
+  height: 240px;
 }
 
 #news.pictures .news-wrap {
@@ -1181,7 +1182,12 @@ section {
   box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
 }
 
-
+/* Videos Section
+--------------------------------*/
+#news.videos .news-item figure .link-preview i, #news .news-item figure .link-details i {
+  padding: 7px 0 0 4px;
+  font-size: 22px;
+}
 
 /* Contact Section
 --------------------------------*/

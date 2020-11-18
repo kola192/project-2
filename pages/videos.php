@@ -23,7 +23,7 @@
     </section><!-- End Breadcrumbs Section -->
 
     <!-- ======= Pictures Section ======= -->
-    <section id="news" class="pictures section-bg">
+    <section id="news" class="pictures videos section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="row news-container" data-aos="fade-up" data-aos-delay="200">
@@ -32,7 +32,7 @@
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
               </figure>
             </div>
           </div>
@@ -41,7 +41,7 @@
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
               </figure>
             </div>
           </div>
@@ -50,7 +50,7 @@
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
               </figure>
             </div>
           </div>
@@ -59,7 +59,7 @@
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
               </figure>
             </div>
           </div>
@@ -68,7 +68,7 @@
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
               </figure>
             </div>
           </div>
@@ -77,66 +77,13 @@
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
               </figure>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-              </figure>
-            </div>
-          </div>
+          
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-              </figure>
-            </div>
-          </div>
-
-       
         </div><!-- End news-container -->
       </div><!-- End container -->
     </section><!-- End Pictures Section -->
