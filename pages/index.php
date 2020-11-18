@@ -219,23 +219,8 @@
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.php">App 1</a></h4>
-                <p>App</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-web">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/web3.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web3.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 3"><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-
-              <div class="news-info">
-                <h4><a href="news-details.php">Web 3</a></h4>
-                <p>Web</p>
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
               </div>
             </div>
           </div>
@@ -243,44 +228,14 @@
           <div class="col-lg-4 col-md-6 news-item filter-app">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app2.jpg" class="link-preview venobox" data-gall="newsGallery" title="App 2"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.php">App 2</a></h4>
-                <p>App</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-card">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/card2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/card2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 2"><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-
-              <div class="news-info">
-                <h4><a href="news-details.php">Card 2</a></h4>
-                <p>Card</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-web">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 2"><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-
-              <div class="news-info">
-                <h4><a href="news-details.php">Web 2</a></h4>
-                <p>Web</p>
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
               </div>
             </div>
           </div>
@@ -288,62 +243,198 @@
           <div class="col-lg-4 col-md-6 news-item filter-app">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/app3.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app3.jpg" class="link-preview venobox" data-gall="newsGallery" title="App 3"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.php">App 3</a></h4>
-                <p>App</p>
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-card">
+          <div class="col-lg-4 col-md-6 news-item filter-app">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/card1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/card1.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 1"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.php">Card 1</a></h4>
-                <p>Card</p>
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-card">
+          <div class="col-lg-4 col-md-6 news-item filter-app">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/card3.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/card3.jpg" class="link-preview venobox" data-gall="newsGallery" title="Card 3"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.php">Card 3</a></h4>
-                <p>Card</p>
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-app">
             <div class="news-wrap">
               <figure>
-                <img src="../assets/img/news/web1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web1.jpg" class="link-preview venobox" data-gall="newsGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
 
               <div class="news-info">
-                <h4><a href="news-details.php">Web 1</a></h4>
-                <p>Web</p>
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
               </div>
             </div>
           </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 news-item filter-app">
+            <div class="news-wrap">
+              <figure>
+                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
+                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="news-info">
+                <h4><a href="news-details.php">News Title</a></h4>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+              </div>
+            </div>
+          </div>
+
 
         </div>
 
