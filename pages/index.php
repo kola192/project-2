@@ -157,23 +157,23 @@
 
     <!-- Partners Section -->
     <section class="partners">
-      <div class="container">
-          <h3 class="text-center">Partners</h3>
+      <div class="container" data-aos="fade-up"data-aos-delay="100">
+          <h3 class="text-center wow fadeInUp">Partners</h3>
           <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
                   <div class="carousel-item active">
-                      <div class="wrapper">
+                      <div class="wrapper" data-aos="fade-up" data-aos-delay="200">
                           <div class="undp">
                               <img src="../assets/img/undp.jpg" alt="undp">
-                              <h4>UNDP</h4>
+                              <h4 data-aos="fade-up" data-aos-delay="300">UNDP</h4>
                           </div>
                           <div class="concordis">
                               <img src="../assets/img/concordis.png" alt="concordis">
-                              <h4>Concordis</h4>
+                              <h4 data-aos="fade-up" data-aos-delay="300">Concordis</h4>
                           </div>
                           <div class="unhcr">
                               <img src="../assets/img/unhcr.jpg" alt="unhcr">
-                              <h4>UNHCR</h4>
+                              <h4 data-aos="fade-up" data-aos-delay="300">UNHCR</h4>
                           </div>
                       </div>
                   </div>
@@ -208,20 +208,23 @@
           <h3 class="section-title">News</h3>
         </header>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100"">
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class=" col-lg-12">
             <ul id="news-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-redSea">Red Sea</li>
+              <li data-filter=".filter-whiteNile">White Nile</li>
+              <li data-filter=".filter-blueNile">Blur Nile</li>
+              <li data-filter=".filter-northDarfour">North Darfour</li>
+              <li data-filter=".filter-westDarfour">West Darfour</li>
+              <li data-filter=".filter-khartoum">Khartoum</li>
             </ul>
           </div>
         </div>
 
         <div class="row news-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-redSea">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -235,7 +238,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-whiteNile">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -249,7 +252,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-blueNile">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -263,7 +266,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-blueNile">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -277,7 +280,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-northDarfour">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -291,7 +294,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-khartoum">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -305,7 +308,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-redSea">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -319,7 +322,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-westDarfour">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -333,7 +336,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-whiteNile">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -347,7 +350,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-khartoum">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -361,7 +364,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-blueNile">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -375,7 +378,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-northDarfour">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -389,7 +392,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-khartoum">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -403,7 +406,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-whiteNile">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
@@ -417,7 +420,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-web">
+          <div class="col-lg-4 col-md-6 news-item filter-redSea">
             <div class="news-wrap">
               <figure>
                 <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">

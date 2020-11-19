@@ -10,7 +10,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Pictures</h2>
+          <h2 data-aos="fade-up">Pictures</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
             <li>Pictures</li>
