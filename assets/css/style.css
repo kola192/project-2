@@ -152,16 +152,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-
-/* Header with scrolled class */
-
-/* #header.header-scrolled .logo a {
+#header.header-scrolled .logo a {
   color: #333;
 }
 
-#header.header-scrolled .nav-menu a {
-  color: #9c9c9c;
-} */
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -194,16 +188,28 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
-.nav-menu a:hover, .nav-menu .active > a{
+.nav-menu a:hover, .nav-menu .active > a, #header.header-scrolled .nav-menu a:hover {
   color: #18d26e;
 }
 
-.nav-menu li:nth-child(7) > a {
+#header.header-scrolled .nav-menu a {
+  color: #666;
+}
+
+.nav-menu li:last-child > a {
   color: rgba(255, 255, 255, 0.6);
 }
 
 .nav-menu li:last-child > a:hover, .nav-menu li:last-child > a.active {
   color: rgba(255, 255, 255, .92);
+}
+
+#header.header-scrolled .nav-menu li:last-child > a {
+  color:#999;
+}
+
+#header.header-scrolled .nav-menu li:last-child > a:hover, #header.header-scrolled .nav-menu li:last-child > a.active {
+  color: #666);
 }
 
 #header > div > div > div > nav > ul > li.d-flex.text-white.align-items-center.justify-content-between > span {

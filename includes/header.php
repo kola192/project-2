@@ -72,7 +72,7 @@
                 </ul>
               </li>              
               <li><a href="contact.php">اتصل بنا</a></li>
-              <li class="d-flex text-white align-items-center justify-content-between"><a class="btn-lang" href="#" lang="ar">Eng</a><span style="color: #666;">|</span><a class="btn-lang align-self-start" href="#" lang="ar">عربي</a></li>
+              <li class="d-flex text-white align-items-center justify-content-between"><a class="btn-lang" href="#" lang="ar">Eng</a><span style="color: #888;">|</span><a class="btn-lang align-self-start" href="#" lang="ar">عربي</a></li>
 
             </ul>
           </nav><!-- .nav-menu -->
