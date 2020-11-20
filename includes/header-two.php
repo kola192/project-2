@@ -43,7 +43,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header fixed-top header-transparent">
+  <header id="header-two" class="header fixed-top header-transparent">
     <div class="container-fluid">
 
       <div class="row justify-content-center">

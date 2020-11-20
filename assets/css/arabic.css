@@ -1,0 +1,28 @@
+*, html, body {
+    font-family: 'Almarai', sans-serif;
+}
+
+.header > div > div > div > nav > ul {
+    flex-direction: row-reverse;
+}
+
+.header > div > div > div > nav > ul > li > a{
+    font-size: 1.1em;
+}
+
+.header > div > div > div > nav > ul > li > ul > li > a {
+    text-align: right;
+    font-size: .9em;
+}
+
+.header > div > div > div > nav > ul > li.d-flex.text-white.align-items-center {
+    font-size: .75em;
+}
+
+.header > div > div > div > nav > ul > li.d-flex.text-white.align-items-center > a.align-self-start{
+    line-height: 1;
+}
+
+.header > div > div > div > nav > ul > li.d-flex.text-white.align-items-center.justify-content-between > span {
+    margin: 0 5px;
+  }

@@ -7,16 +7,16 @@
     <div class="intro-container">
       <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
 
-        <ol class="carousel-indicators"></ol>
+        <!-- <ol class="carousel-indicators"></ol> -->
 
         <div class="carousel-inner" role="listbox">
 
           <div class="carousel-item active" style="background-image: url(../assets/img/intro-carousel/carousel1.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Reyada Voluntary Center</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Learn more</a>
+                <h2 class="animate__animated animate__fadeInDown">مركز ريادة الطوعي</h2>
+                <p class="lead animate__animated animate__fadeInUp">مركز ريادة الطوعي لبناء القدرات والدراسات والاستشارات مركز غير حكومي وطني مسجل لدى مفوضية العون الانساني على المستوى الاتحادي في يونيو عام 2012م. مركز متخصص في بناء القدرات والعمل الانساني</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -24,9 +24,9 @@
           <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/carousel2.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Economic Development</h2>
-                <p class="animate__animated animate__fadeInUp">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Learn more</a>
+                <h2 class="animate__animated animate__fadeInDown">التنمية الاقتصادية</h2>
+                <p class="lead animate__animated animate__fadeInUp">اقتراح السياسات الإقتصادية ​للإمارة. الإستغلال الأمثل للموارد البشرية والإمكانات المادية. وضع السياسات والإجراءات التي تسهم في زيادة معدلات النمو الإقتصادي، وتحديد الإتجاهات المشاركة في وضع التشريعات المحلية والإتحادية وتعديلها بغرض تطوير الأداء</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -34,9 +34,9 @@
           <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/carousel3.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Health and Children</h2>
-                <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Learn more</a>
+                <h2 class="animate__animated animate__fadeInDown">تعزيز الصحة والطفل</h2>
+                <p class="lead animate__animated animate__fadeInUp">برامج توعية مجتمعية استهداف اكثر من 50 مجتمع ببرامج التوعية في مجال حقوق الاطفال وقانون الطفل السوداني</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -44,9 +44,9 @@
           <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/carousel4.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Training and Capacity Building</h2>
-                <p class="animate__animated animate__fadeInUp">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Learn more</a>
+                <h2 class="animate__animated animate__fadeInDown">التدريب وبناء القدرات</h2>
+                <p class="lead animate__animated animate__fadeInUp">تم تدريب 185 من الباحثيين الاجتماعيين واللجان المجتمعية في قانون الطفل وطرق التعامل مع الاطفال وقواعد السلوك . • تدريب اكثر من 150 من المعلمين في قانون الطفل وتعزيز دور المعلم في حماية الاطفال</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -54,9 +54,9 @@
           <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/carousel5.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Peace and conflict resolution</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Learn more</a>
+                <h2 class="animate__animated animate__fadeInDown">السلام وحل النزاعات</h2>
+                <p class="lead animate__animated animate__fadeInUp">الهدف العام هو بناء قدرات المرأة في حل النزاعات وبناء السلام لتمكين المرأة من أجل المساهمة في القرارات تؤثر بشكل مباشر على حياتها وعلاقاتها وتعزيز دور المرأة في حل النزاعات وبناء السلام والاستقرار</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
               </div>
             </div>
           </div>

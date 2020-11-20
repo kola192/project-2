@@ -106,25 +106,25 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-#header {
+.header {
   transition: all 0.5s;
   z-index: 997;
   padding: 26px 0;
   background: rgba(0, 0, 0, 0.9);
 }
 
-/* uncomment this if you want and fix the problem you will see in about and contact pages*/
 
-/* #header.header-transparent {
+.header.header-transparent {
   background: transparent;
-} */
-
-#header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
-  padding: 18px 0;
 }
 
-#header .logo {
+.header.header-scrolled {
+  background: #fff;
+  padding: 18px 0;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+}
+
+.header .logo {
   font-size: 34px;
   margin: 0;
   padding: 0;
@@ -136,19 +136,32 @@ h1, h2, h3, h4, h5, h6 {
   border-left: 4px solid #18d26e;
 }
 
-#header .logo a {
+.header .logo a {
+  text-transform: uppercase;
   color: #fff;
+  font-weight: bolder;
 }
 
-#header .logo img {
+.header .logo img {
   max-height: 40px;
 }
 
 @media (max-width: 992px) {
-  #header .logo {
+  .header .logo {
     font-size: 28px;
   }
 }
+
+
+/* Header with scrolled class */
+
+/* #header.header-scrolled .logo a {
+  color: #333;
+}
+
+#header.header-scrolled .nav-menu a {
+  color: #9c9c9c;
+} */
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -185,12 +198,16 @@ h1, h2, h3, h4, h5, h6 {
   color: #18d26e;
 }
 
-.nav-menu li:nth-child(8) > a {
+.nav-menu li:nth-child(7) > a {
   color: rgba(255, 255, 255, 0.6);
 }
 
-.nav-menu li:nth-child(8) > a:hover, .nav-menu li:nth-child(8) > a.active {
+.nav-menu li:last-child > a:hover, .nav-menu li:last-child > a.active {
   color: rgba(255, 255, 255, .92);
+}
+
+#header > div > div > div > nav > ul > li.d-flex.text-white.align-items-center.justify-content-between > span {
+  margin: 0 5px;
 }
 
 .nav-menu .drop-down ul {
@@ -370,6 +387,85 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav-active .mobile-nav {
   opacity: 1;
   visibility: visible;
+}
+
+.mobile-nav-active .mobile-nav-toggle i {
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Header-Two
+--------------------------------------------------------------*/
+#header-two {
+  background: #fff;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+}
+
+
+#header-two .header-transparent {
+  background: #fff;
+}
+
+#header-two .logo a {
+  color: #333;
+}
+
+/*--------------------------------------------------------------
+# Header-Two Navigation Menu
+--------------------------------------------------------------*/
+/* Desktop Navigation */
+#header-two .nav-menu a {
+  color: #666666;
+}
+
+#header-two .nav-menu a:hover, .nav-menu .active > a{
+  color: #18d26e;
+}
+
+#header-two .nav-menu li:nth-child(7) > a {
+  color: #999;
+}
+
+#header-two .nav-menu li:last-child > a:hover, .nav-menu li:last-child > a.active {
+  color: #666;
+}
+
+#header-two .nav-menu .drop-down ul {
+  background: #fff;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+}
+
+#header-two .nav-menu .drop-down ul a {
+  color: #333333;
+}
+
+/* Header-Two Mobile Navigation */
+.mobile-nav-toggle {
+  background: none;
+}
+
+.mobile-nav-toggle i {
+  color: #18d26e;
+}
+
+.mobile-nav {
+  background: #fff;
+}
+
+.mobile-nav a {
+  color: #333333;
+}
+
+.mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
+  color: #18d26e;
+}
+
+.mobile-nav .active.drop-down > a:after {
+  content: "\eaa1";
+}
+
+.mobile-nav-overly {
+  background: rgba(26, 26, 26, 0.6);
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
