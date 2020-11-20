@@ -14,9 +14,9 @@
           <div class="carousel-item active" style="background-image: url(../assets/img/intro-carousel/carousel1.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">مركز ريادة الطوعي</h2>
-                <p class="lead animate__animated animate__fadeInUp">مركز ريادة الطوعي لبناء القدرات والدراسات والاستشارات مركز غير حكومي وطني مسجل لدى مفوضية العون الانساني على المستوى الاتحادي في يونيو عام 2012م. مركز متخصص في بناء القدرات والعمل الانساني</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
+                <h2 class="animate__animated animate__fadeInDown__slow">مركز ريادة الطوعي</h2>
+                <p class="lead animate__animated animate__fadeInUp__slower">مركز ريادة الطوعي لبناء القدرات والدراسات والاستشارات مركز غير حكومي وطني مسجل لدى مفوضية العون الانساني على المستوى الاتحادي في يونيو عام 2012م. مركز متخصص في بناء القدرات والعمل الانساني</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -24,9 +24,9 @@
           <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/carousel2.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">التنمية الاقتصادية</h2>
-                <p class="lead animate__animated animate__fadeInUp">اقتراح السياسات الإقتصادية ​للإمارة. الإستغلال الأمثل للموارد البشرية والإمكانات المادية. وضع السياسات والإجراءات التي تسهم في زيادة معدلات النمو الإقتصادي، وتحديد الإتجاهات المشاركة في وضع التشريعات المحلية والإتحادية وتعديلها بغرض تطوير الأداء</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
+                <h2 class="animate__animated animate__fadeInDown__slow">التنمية الاقتصادية</h2>
+                <p class="lead animate__animated animate__fadeInUp__slower">اقتراح السياسات الإقتصادية ​للإمارة. الإستغلال الأمثل للموارد البشرية والإمكانات المادية. وضع السياسات والإجراءات التي تسهم في زيادة معدلات النمو الإقتصادي، وتحديد الإتجاهات المشاركة في وضع التشريعات المحلية والإتحادية وتعديلها بغرض تطوير الأداء</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -34,9 +34,9 @@
           <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/carousel3.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">تعزيز الصحة والطفل</h2>
-                <p class="lead animate__animated animate__fadeInUp">برامج توعية مجتمعية استهداف اكثر من 50 مجتمع ببرامج التوعية في مجال حقوق الاطفال وقانون الطفل السوداني</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
+                <h2 class="animate__animated animate__fadeInDown__slow">تعزيز الصحة والطفل</h2>
+                <p class="lead animate__animated animate__fadeInUp__slower">برامج توعية مجتمعية استهداف اكثر من 50 مجتمع ببرامج التوعية في مجال حقوق الاطفال وقانون الطفل السوداني</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -44,9 +44,9 @@
           <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/carousel4.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">التدريب وبناء القدرات</h2>
-                <p class="lead animate__animated animate__fadeInUp">تم تدريب 185 من الباحثيين الاجتماعيين واللجان المجتمعية في قانون الطفل وطرق التعامل مع الاطفال وقواعد السلوك . • تدريب اكثر من 150 من المعلمين في قانون الطفل وتعزيز دور المعلم في حماية الاطفال</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
+                <h2 class="animate__animated animate__fadeInDown__slow">التدريب وبناء القدرات</h2>
+                <p class="lead animate__animated animate__fadeInUp__slower">تم تدريب 185 من الباحثيين الاجتماعيين واللجان المجتمعية في قانون الطفل وطرق التعامل مع الاطفال وقواعد السلوك . • تدريب اكثر من 150 من المعلمين في قانون الطفل وتعزيز دور المعلم في حماية الاطفال</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -54,9 +54,9 @@
           <div class="carousel-item" style="background-image: url(../assets/img/intro-carousel/carousel5.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">السلام وحل النزاعات</h2>
-                <p class="lead animate__animated animate__fadeInUp">الهدف العام هو بناء قدرات المرأة في حل النزاعات وبناء السلام لتمكين المرأة من أجل المساهمة في القرارات تؤثر بشكل مباشر على حياتها وعلاقاتها وتعزيز دور المرأة في حل النزاعات وبناء السلام والاستقرار</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">اقرأ المزيد</a>
+                <h2 class="animate__animated animate__fadeInDown__slow">السلام وحل النزاعات</h2>
+                <p class="lead animate__animated animate__fadeInUp__slower">الهدف العام هو بناء قدرات المرأة في حل النزاعات وبناء السلام لتمكين المرأة من أجل المساهمة في القرارات تؤثر بشكل مباشر على حياتها وعلاقاتها وتعزيز دور المرأة في حل النزاعات وبناء السلام والاستقرار</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -78,35 +78,6 @@
   </section><!-- End Intro Section -->
 
   <main id="main">
-
-    <!-- ======= Featured Services Section Section ======= -->
-    <section id="featured-services">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-4 box">
-            <i class="ion-ios-bookmarks-outline"></i>
-            <h4 class="title"><a href="">awareness programs</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-          </div>
-
-          <div class="col-lg-4 box box-bg">
-            <i class="fa fa-venus" aria-hidden="true"></i>
-            <h4 class="title"><a href="">Women's Empowerment</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-          </div>
-
-          <div class="col-lg-4 box">
-            <i class="ion-ios-heart-outline"></i>
-            <h4 class="title"><a href="">Peace</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-          </div>
-
-        </div>
-      </div>
-    </section><!-- End Featured Services Section -->
-
-    
 
     <!-- ======= Services Section ======= -->
     <section id="services">
@@ -155,49 +126,34 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- Partners Section -->
-    <section class="partners">
-      <div class="container" data-aos="fade-up"data-aos-delay="100">
-          <h3 class="text-center wow fadeInUp">Partners</h3>
-          <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-              <div class="carousel-inner">
-                  <div class="carousel-item active">
-                      <div class="wrapper" data-aos="fade-up" data-aos-delay="200">
-                          <div class="undp">
-                              <img src="../assets/img/undp.jpg" alt="undp">
-                              <h4 data-aos="fade-up" data-aos-delay="300">UNDP</h4>
-                          </div>
-                          <div class="concordis">
-                              <img src="../assets/img/concordis.png" alt="concordis">
-                              <h4 data-aos="fade-up" data-aos-delay="300">Concordis</h4>
-                          </div>
-                          <div class="unhcr">
-                              <img src="../assets/img/unhcr.jpg" alt="unhcr">
-                              <h4 data-aos="fade-up" data-aos-delay="300">UNHCR</h4>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="carousel-item">
-                      <div class="wrapper">
-                          <div class="hac">
-                              <img src="../assets/img/HAC.jpg" alt="hunaniterian aid commision">
-                              <h4>HAC</h4>
-                          </div>
-                          <div class="save-children">
-                              <img src="../assets/img/save-the-children.png" alt="save the children">
-                              <h4>Save The Children</h4>
-                          </div>
-                          <div class="unicef">
-                              <img src="../assets/img/unicef.jpg" alt="unicef">
-                              <h4>UNICEF</h4>
-                          </div>
-                      </div>
-                  </div> <!-- carousel-item closing tag -->
-              </div> <!-- carousel-inner closing tag -->
-          </div> <!-- carousel closing tag -->
-      </div> <!-- container closing tag -->
-    </section> <!-- Partners Section closing tag -->
 
+    <!-- ======= Featured Services Section Section ======= -->
+    <section id="featured-services">
+      <div class="container" data-aos="fade-up">
+        <h3 class="text-center wow fadeInUp" data-aos="fade-up" data-aos-delay="100">Featured Services</h3>
+        <div class="row" data-aos="fade-up"data-aos-delay="200">
+
+          <div class="col-lg-4 box">
+            <i class="ion-ios-bookmarks-outline"></i>
+            <h4 class="title text-center"><a href="">awareness programs</a></h4>
+            <p class="description text-center">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+          </div>
+
+          <div class="col-lg-4 box">
+            <i class="fa fa-venus" aria-hidden="true"></i>
+            <h4 class="title text-center"><a href="">Women's Empowerment</a></h4>
+            <p class="description text-center">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+          </div>
+
+          <div class="col-lg-4 box">
+            <i class="ion-ios-heart-outline"></i>
+            <h4 class="title text-center"><a href="">Peace</a></h4>
+            <p class="description text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- End Featured Services Section -->
 
 
     <!-- ======= News Section ======= -->
@@ -439,6 +395,50 @@
 
       </div>
     </section><!-- End News Section -->
+
+
+    <!-- Partners Section -->
+    <section class="partners">
+      <div class="container" data-aos="fade-up"data-aos-delay="100">
+          <h3 class="text-center wow fadeInUp">Partners</h3>
+          <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                  <div class="carousel-item active">
+                      <div class="wrapper" data-aos="fade-up" data-aos-delay="200">
+                          <div class="undp">
+                              <img src="../assets/img/undp.jpg" alt="undp">
+                              <h4 data-aos="fade-up" data-aos-delay="300">UNDP</h4>
+                          </div>
+                          <div class="concordis">
+                              <img src="../assets/img/concordis.png" alt="concordis">
+                              <h4 data-aos="fade-up" data-aos-delay="300">Concordis</h4>
+                          </div>
+                          <div class="unhcr">
+                              <img src="../assets/img/unhcr.jpg" alt="unhcr">
+                              <h4 data-aos="fade-up" data-aos-delay="300">UNHCR</h4>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="carousel-item">
+                      <div class="wrapper">
+                          <div class="hac">
+                              <img src="../assets/img/HAC.jpg" alt="hunaniterian aid commision">
+                              <h4>HAC</h4>
+                          </div>
+                          <div class="save-children">
+                              <img src="../assets/img/save-the-children.png" alt="save the children">
+                              <h4>Save The Children</h4>
+                          </div>
+                          <div class="unicef">
+                              <img src="../assets/img/unicef.jpg" alt="unicef">
+                              <h4>UNICEF</h4>
+                          </div>
+                      </div>
+                  </div> <!-- carousel-item closing tag -->
+              </div> <!-- carousel-inner closing tag -->
+          </div> <!-- carousel closing tag -->
+      </div> <!-- container closing tag -->
+    </section> <!-- Partners Section closing tag -->
 
 
   </main><!-- End #main -->
