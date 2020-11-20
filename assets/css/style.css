@@ -888,9 +888,9 @@ section {
 /* Featured Services Section
 --------------------------------*/
 #featured-services {
-  background: url(../img/directions.jpg) fixed;
+  background: url(../img/features.jpg) fixed;
   background-blend-mode: multiply;
-  background-color: rgba(0,0,0,.75);
+  background-color: rgba(0,0,0,.15);
   background-size: cover;
   background-position: bottom;
   padding-top: 1rem;
