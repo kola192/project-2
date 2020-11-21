@@ -15,7 +15,7 @@
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown__slow">مركز ريادة الطوعي</h2>
-                <p class="lead animate__animated animate__fadeInUp__slower">مركز ريادة الطوعي لبناء القدرات والدراسات والاستشارات مركز غير حكومي وطني مسجل لدى مفوضية العون الانساني على المستوى الاتحادي في يونيو عام 2012م. مركز متخصص في بناء القدرات والعمل الانساني</p>
+                <p class="lead animate__animated animate__fadeInUp__slower">مركز ريادة الطوعي لبناء القدرات والدراسات والاستشارات. مركز متخصص في بناء القدرات والعمل الانساني</p>
                 <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
@@ -25,7 +25,7 @@
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown__slow">التنمية الاقتصادية</h2>
-                <p class="lead animate__animated animate__fadeInUp__slower">اقتراح السياسات الإقتصادية ​للإمارة. الإستغلال الأمثل للموارد البشرية والإمكانات المادية. وضع السياسات والإجراءات التي تسهم في زيادة معدلات النمو الإقتصادي، وتحديد الإتجاهات المشاركة في وضع التشريعات المحلية والإتحادية وتعديلها بغرض تطوير الأداء</p>
+                <p class="lead animate__animated animate__fadeInUp__slower">الإستغلال الأمثل للموارد البشرية والإمكانات المادية. وضع السياسات والإجراءات التي تسهم في زيادة معدلات النمو الإقتصادي، وتحديد الإتجاهات المشاركة في وضع التشريعات المحلية والإتحادية وتعديلها بغرض تطوير الأداء</p>
                 <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
