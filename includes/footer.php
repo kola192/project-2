@@ -46,7 +46,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Reyada</strong> 2020. All Rights Reserved
+        &copy; Copyright <strong>REYADA</strong> 2020. All Rights Reserved
       </div>
       <div class="credits">
         
