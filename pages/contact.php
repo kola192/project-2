@@ -25,7 +25,7 @@
           <div class="contact-phone">
             <i class="ion-ios-telephone-outline"></i>
             <h3>Phone Number</h3>
-            <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+            <p><a href="tel:+155895548855">+249 111094895</a></p>
           </div>
         </div>
 
@@ -33,7 +33,7 @@
           <div class="contact-email">
             <i class="ion-ios-email-outline"></i>
             <h3>Email</h3>
-            <p><a href="mailto:info@example.com">info@example.com</a></p>
+            <p><a href="mailto:info@reyada.org">info@reyada.org</a></p>
           </div>
         </div>
 
