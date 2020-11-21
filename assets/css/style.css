@@ -1093,17 +1093,18 @@ section {
 }
 
 #news .news-item figure {
-  background: #000;
+  background: #111;
   overflow: hidden;
   height: 180px;
   position: relative;
   border-radius: 4px 4px 0 0;
   margin: 0;
+  transition: transform 750ms  cubic-bezier(.5, 0, .5, 1);
 }
 
 #news .news-item figure:hover img {
   opacity: 0.4;
-  transition: 0.3s;
+  transition: transform 750ms  cubic-bezier(.5, 0, .5, 1);
 }
 
 #news .news-item figure .link-preview, #news .news-item figure .link-details {
@@ -1290,6 +1291,7 @@ section {
 }
 
 #news.pictures .news-item figure {
+  border: 5px solid rgb(226, 226, 226);
   border-radius: 4px;
   height: 240px;
 }
@@ -1302,6 +1304,33 @@ section {
 
 #news.pictures .news-wrap:hover {
   box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
+}
+
+/* gallary animation
+--------------------------------*/
+#news .pictures-container .news-wrap {
+  overflow: hidden;
+}
+
+#news .pictures-container .news-wrap img {
+  transition: all 750ms  cubic-bezier(.5, 0, .5, 1);
+}
+
+#news .pictures-container .news-wrap img:hover {
+	transform: scale(1.3);
+}
+
+#news .pictures-container .news-item figure .link-preview{ 
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background: none;
+  border-radius: 0%;
+  transform: translate(0, 0);
 }
 
 /* Videos Section
@@ -1482,6 +1511,10 @@ section {
     transform: rotate(360deg);
   }
 }
+
+
+
+
 
 /*--------------------------------------------------------------
 # Footer
