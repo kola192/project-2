@@ -13,40 +13,40 @@
 
       <div class="row about-cols">
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
           <div class="about-col">
             <div class="img">
               <img src="../assets/img/about-mission.jpg" alt="" class="img-fluid">
               <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
             </div>
-            <h2 class="title"><a href="#">Our Mission</a></h2>
-            <p>
+            <h2 class="title" data-aos="fade-up" data-aos-delay="400"><a href="#">Our Mission</a></h2>
+            <p class="lead text-center" data-aos="fade-up" data-aos-delay="700">
               Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
           </div>
         </div>
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="400">
           <div class="about-col">
             <div class="img">
               <img src="../assets/img/about-plan.jpg" alt="" class="img-fluid">
               <div class="icon"><i class="ion-ios-list-outline"></i></div>
             </div>
-            <h2 class="title"><a href="#">Our Values</a></h2>
-            <p>
+            <h2 class="title" data-aos="fade-up" data-aos-delay="600"><a href="#">Our Values</a></h2>
+            <p class="lead text-center" data-aos="fade-up" data-aos-delay="900">
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
             </p>
           </div>
         </div>
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="600">
           <div class="about-col">
             <div class="img">
               <img src="../assets/img/about-vision.jpg" alt="" class="img-fluid">
               <div class="icon"><i class="ion-ios-eye-outline"></i></div>
             </div>
-            <h2 class="title"><a href="#">Our Vision</a></h2>
-            <p>
+            <h2 class="title" data-aos="fade-up" data-aos-delay="800"><a href="#">Our Vision</a></h2>
+            <p class="lead text-center" data-aos="fade-up" data-aos-delay="1100">
               Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
             </p>
           </div>

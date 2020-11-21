@@ -16,7 +16,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown__slow">مركز ريادة الطوعي</h2>
                 <p class="lead animate__animated animate__fadeInUp__slower">مركز ريادة الطوعي لبناء القدرات والدراسات والاستشارات مركز غير حكومي وطني مسجل لدى مفوضية العون الانساني على المستوى الاتحادي في يونيو عام 2012م. مركز متخصص في بناء القدرات والعمل الانساني</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
+                <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -26,7 +26,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown__slow">التنمية الاقتصادية</h2>
                 <p class="lead animate__animated animate__fadeInUp__slower">اقتراح السياسات الإقتصادية ​للإمارة. الإستغلال الأمثل للموارد البشرية والإمكانات المادية. وضع السياسات والإجراءات التي تسهم في زيادة معدلات النمو الإقتصادي، وتحديد الإتجاهات المشاركة في وضع التشريعات المحلية والإتحادية وتعديلها بغرض تطوير الأداء</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
+                <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -36,7 +36,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown__slow">تعزيز الصحة والطفل</h2>
                 <p class="lead animate__animated animate__fadeInUp__slower">برامج توعية مجتمعية استهداف اكثر من 50 مجتمع ببرامج التوعية في مجال حقوق الاطفال وقانون الطفل السوداني</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
+                <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -46,7 +46,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown__slow">التدريب وبناء القدرات</h2>
                 <p class="lead animate__animated animate__fadeInUp__slower">تم تدريب 185 من الباحثيين الاجتماعيين واللجان المجتمعية في قانون الطفل وطرق التعامل مع الاطفال وقواعد السلوك . • تدريب اكثر من 150 من المعلمين في قانون الطفل وتعزيز دور المعلم في حماية الاطفال</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
+                <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown__slow">السلام وحل النزاعات</h2>
                 <p class="lead animate__animated animate__fadeInUp__slower">الهدف العام هو بناء قدرات المرأة في حل النزاعات وبناء السلام لتمكين المرأة من أجل المساهمة في القرارات تؤثر بشكل مباشر على حياتها وعلاقاتها وتعزيز دور المرأة في حل النزاعات وبناء السلام والاستقرار</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
+                <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp__slower">اقرأ المزيد</a>
               </div>
             </div>
           </div>

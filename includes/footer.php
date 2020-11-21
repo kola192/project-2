@@ -1,15 +1,15 @@
 <!-- ======= Footer ======= -->
 <footer id="footer">
     <div class="footer-top">
-      <div class="container">
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row justify-content-between">
 
-          <div class="col-lg-3 col-md-6 footer-info">
+          <div class="col-lg-3 col-md-6 footer-info" data-aos="fade-up" data-aos-delay="200">
             <h3>Reyada</h3>
             <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="300">
             <h4>Useful Links</h4>
             <ul>
               <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
@@ -20,7 +20,7 @@
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-lg-3 col-md-6 footer-contact" data-aos="fade-up" data-aos-delay="400">
             <h4>Contact Us</h4>
             <p>
               A108 Adam Street <br>
@@ -31,11 +31,11 @@
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+              <a href="#" class="twitter"><i class="fa fa-twitter" data-aos="fade-up" data-aos-delay="400"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook" data-aos="fade-up" data-aos-delay="500"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram" data-aos="fade-up" data-aos-delay="600"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus" data-aos="fade-up" data-aos-delay="700"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin" data-aos="fade-up" data-aos-delay="800"></i></a>
             </div>
 
           </div>
@@ -50,7 +50,7 @@
       </div>
       <div class="credits">
         
-        Designed by <a href="#">Green Design</a>
+        Designed by <a href="http://greendesign.sd/?i=1">Green Design</a>
       </div>
     </div>
   </footer><!-- End Footer -->
