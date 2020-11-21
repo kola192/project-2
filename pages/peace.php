@@ -1,5 +1,5 @@
 <!-- including header -->
-<?php include('../includes/header.php') ?>
+<?php include('../includes/header-two.php') ?>
 
 
   <main id="main">

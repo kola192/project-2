@@ -1,5 +1,5 @@
 <!-- including header -->
-<?php include('../includes/header.php') ?>
+<?php include('../includes/header-two.php') ?>
 
 
 
@@ -24,6 +24,10 @@
       <!-- ======= News Section ======= -->
     <section id="news" class="bg-white section-bg">
         <div class="container" data-aos="fade-up">
+
+            <header class="section-header">
+            <h3 class="section-title">Posts</h3>
+            </header>
 
             <div class="row news-container" data-aos="fade-up" data-aos-delay="200">
 
