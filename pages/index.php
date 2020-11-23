@@ -2,8 +2,15 @@
 <?php include('../includes/header.php')?>
 
 
+
   <!-- ======= Intro Section ======= -->
   <section id="intro">
+    
+    <!-- preloader -->
+    <div class="preloader"></div>
+
+
+
     <div class="intro-container">
       <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
 
@@ -442,6 +449,7 @@
 
 
   </main><!-- End #main -->
+
 
 
 <!-- including footer -->

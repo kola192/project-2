@@ -4,7 +4,8 @@
 
 <!-- ======= About Us Section ======= -->
 <section id="about">
-    <div class="container" data-aos="fade-up">
+
+    <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">
 
       <header class="section-header">
         <h3>About Us</h3>
@@ -13,7 +14,7 @@
 
       <div class="row about-cols">
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="1700">
           <div class="about-col">
             <div class="img">
               <img src="../assets/img/about-mission.jpg" alt="" class="img-fluid">
@@ -26,7 +27,7 @@
           </div>
         </div>
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="400">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="1900">
           <div class="about-col">
             <div class="img">
               <img src="../assets/img/about-plan.jpg" alt="" class="img-fluid">
@@ -39,7 +40,7 @@
           </div>
         </div>
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="600">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="2100">
           <div class="about-col">
             <div class="img">
               <img src="../assets/img/about-vision.jpg" alt="" class="img-fluid">

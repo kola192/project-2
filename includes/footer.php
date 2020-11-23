@@ -31,11 +31,11 @@
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter" data-aos="fade-up" data-aos-delay="400"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook" data-aos="fade-up" data-aos-delay="500"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram" data-aos="fade-up" data-aos-delay="600"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus" data-aos="fade-up" data-aos-delay="700"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin" data-aos="fade-up" data-aos-delay="800"></i></a>
+              <a href="#" class="twitter"><i class="fa fa-twitter" data-aos="fade-up" data-aos-delay="200"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook" data-aos="fade-up" data-aos-delay="300"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram" data-aos="fade-up" data-aos-delay="400"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus" data-aos="fade-up" data-aos-delay="500"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin" data-aos="fade-up" data-aos-delay="600"></i></a>
             </div>
 
           </div>
@@ -55,9 +55,12 @@
     </div>
   </footer><!-- End Footer -->
 
+  <!-- back to top button -->
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-  <!-- Uncomment below i you want to use a preloader -->
-  <!-- <div id="preloader"></div> -->
+
+  <!-- preloader -->
+  <div class="preloader"></div>
+
 
   <!-- Vendor JS Files -->
   <script src="../assets/vendor/jquery/jquery.min.js"></script>

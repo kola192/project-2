@@ -4,7 +4,7 @@
 
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="section-bg">
-    <div class="container" data-aos="fade-up">
+    <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="1900">
 
       <div class="section-header">
         <h3>Contact Us</h3>
@@ -13,7 +13,7 @@
 
       <div class="row contact-info">
 
-        <div class="col-md-4">
+        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2000">
           <div class="contact-address">
             <i class="ion-ios-location-outline"></i>
             <h3>Address</h3>
@@ -21,7 +21,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2200">
           <div class="contact-phone">
             <i class="ion-ios-telephone-outline"></i>
             <h3>Phone Number</h3>
@@ -29,7 +29,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2400">
           <div class="contact-email">
             <i class="ion-ios-email-outline"></i>
             <h3>Email</h3>
@@ -39,7 +39,7 @@
 
       </div>
 
-      <div class="form">
+      <div class="form" data-aos="fade-up" data-aos="fade-up" data-aos-delay="400">
         <form action="forms/contact.php" method="post" role="form" class="php-email-form">
           <div class="form-row">
             <div class="form-group col-md-6">

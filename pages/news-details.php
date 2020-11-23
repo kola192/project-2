@@ -9,7 +9,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2 data-aos="fade-up">News title</h2>
+          <h2  data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">News title</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
             <li><a href="posts.php">news</a></li>
@@ -24,7 +24,7 @@
     <section class="news-details">
       <div class="container">
 
-        <div class="news-details-container" data-aos="fade-up" data-aos-delay="600">
+        <div class="news-details-container" data-aos="fade-up" data-aos-delay="2100">
 
           <div class="owl-carousel news-details-carousel">
             <img src="https://source.unsplash.com/user/erondu/1600x600" class="img-fluid" alt="">

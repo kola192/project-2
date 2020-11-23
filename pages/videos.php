@@ -10,7 +10,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2 data-aos="fade-up">Videos</h2>
+          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">Videos</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
             <li><a href="pictures.php">Pictures</a></li>
@@ -24,7 +24,7 @@
 
     <!-- ======= Videos Section ======= -->
     <section id="news" class="pictures videos section-bg">
-      <div class="container" data-aos="fade-up">
+      <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2000">
 
         <header class="section-header">
           <h3 class="section-title">Videos</h3>
