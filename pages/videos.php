@@ -22,7 +22,7 @@
       </div>
     </section><!-- End Breadcrumbs Section -->
 
-    <!-- ======= Pictures Section ======= -->
+    <!-- ======= Videos Section ======= -->
     <section id="news" class="pictures videos section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -32,65 +32,22 @@
 
         <div class="row news-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-6 col-md-12 news-item">
             <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
-              </figure>
+              <iframe class="video d-block my-0 mx-auto" width="450" height="315" src="https://www.youtube.com/embed/TF1quiT9BO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
+          <div class="col-lg-6 col-md-12 news-item">
             <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
-              </figure>
+              <iframe class="video d-block my-0 mx-auto" src="https://www.youtube.com/watch?v=f4Y6HwqWlSg&feature=youtu.be" allowfullscreen></iframe>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-app">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/app1.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/app1.jpg" data-lightbox="news" data-title="App 1" class="link-preview"><i class="ion ion-play"></i></a>
-              </figure>
-            </div>
-          </div>
-
-          
 
         </div><!-- End news-container -->
       </div><!-- End container -->
-    </section><!-- End Pictures Section -->
+    </section><!-- End Videos Section -->
 
   </main><!-- End #main -->
 
