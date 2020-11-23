@@ -40,7 +40,7 @@
 
           <div class="col-lg-6 col-md-12 news-item">
             <div class="news-wrap">
-              <iframe width="450" height="315" src="https://www.youtube.com/embed/f4Y6HwqWlSg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe class="video d-block my-0 mx-auto" width="450" height="315" src="https://www.youtube.com/embed/f4Y6HwqWlSg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
 
