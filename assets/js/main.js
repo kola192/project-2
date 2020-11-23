@@ -5,6 +5,7 @@
   $(window).on('load', function() {
     if ($('.preloader').length) {
       $('.preloader').delay(1200).fadeOut('slow', function() {
+        $(document.body).addClass('fadeOut');
         $(this).remove();
       });
     }

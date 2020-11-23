@@ -5,6 +5,12 @@ body {
   background: #fff;
   color: #666666;
   font-family: "Open Sans", sans-serif;
+  overflow: hidden;
+}
+
+body.fadeOut {
+  overflow: auto;
+  overflow-x: hidden;
 }
 
 a {
