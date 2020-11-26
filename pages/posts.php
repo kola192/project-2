@@ -10,12 +10,12 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">Posts</h2>
+          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">المنشورات</h2>
           <ol>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="pictures.php">Pictures</a></li>
-            <li><a href="videos.php">Videos</a></li>
-            <li>Posts</li>
+            <li><a href="index.php">الرئيسية</a></li>
+            <li><a href="pictures.php">الصور</a></li>
+            <li><a href="videos.php">الفيديوهات</a></li>
+            <li>المنشورات</li>
           </ol>
         </div>
 
@@ -26,7 +26,7 @@
         <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2000">
 
             <header class="section-header">
-            <h3 class="section-title">Posts</h3>
+            <h3 class="section-title">المنشورات</h3>
             </header>
 
             <div class="row news-container" data-aos="fade-up" data-aos-delay="200">
@@ -39,8 +39,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -53,8 +53,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -81,8 +81,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -95,8 +95,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -109,8 +109,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -123,8 +123,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -137,8 +137,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -151,8 +151,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -165,8 +165,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -179,8 +179,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -193,8 +193,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -207,8 +207,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -221,8 +221,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>
@@ -235,8 +235,8 @@
                         <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                     </figure>
                     <div class="news-info">
-                        <h4><a href="news-details.php">News Title</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                        <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                        <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح </p>
                     </div>
                     </div>
                 </div>

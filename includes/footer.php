@@ -6,22 +6,22 @@
 
           <div class="col-lg-3 col-md-6 footer-info" data-aos="fade-up" data-aos-delay="200">
             <h3>Reyada</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+            <p>مركز ريادة الطوعي لبناء القدرات والدراسات والاستشارات مركز غير حكومي وطني مسجل لدى مفوضية العون الانساني على المستوى الاتحادي في يونيو عام 2012م. مركز متخصص في بناء القدرات والعمل الانساني ويهتم ببناء القدرات للمنظمات والمجتمعات القاعدية وزيادة فاعليتها واسهامها في حل المشكلات الاجتماعية عبر حزم من البرامج التدريبية والورش</p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="300">
-            <h4>Useful Links</h4>
+            <h4>روابط مفيدة</h4>
             <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="index.php#services">Services</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="peace.php">Programs</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="contact.php">Contact Us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.php">الرئيسية</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="about.php">عن ريادة</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.php#services">الخدمات</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="peace.php">البرامج</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="contact.php">اتصل بنا</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact" data-aos="fade-up" data-aos-delay="400">
-            <h4>Contact Us</h4>
+            <h4>اتصل بنا</h4>
             <p>
               A108 Adam Street <br>
               New York, NY 535022<br>

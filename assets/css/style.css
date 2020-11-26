@@ -887,12 +887,9 @@ section {
   font-size: 18px;
 }
 
-#services .title a {
+#services h4.title {
   color: #111;
-}
-
-#services .box:hover .title a {
-  color: #18d26e;
+  font-size: 1.2rem;
 }
 
 #services .description {
@@ -1031,7 +1028,6 @@ section {
 @media only screen and (min-width: 520px) {
   .wrapper {
       flex-direction: row;
-      flex
   }
 }
 

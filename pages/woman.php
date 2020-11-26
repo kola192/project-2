@@ -9,12 +9,12 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">Woman's Empowerment</h2>
+          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">تمكين المرأة</h2>
           <ol>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="peace.php">Peace</a></li>
-            <li>Women</li>
-            <li><a href="awareness.php">Awareness</a></li>
+            <li><a href="index.php">الرئيسية</a></li>
+            <li><a href="peace.php">السلام</a></li>
+            <li>المرأة</li>
+            <li><a href="awareness.php">التوعية</a></li>
           </ol>
         </div>
 
@@ -35,9 +35,9 @@
         </div>
 
         <div class="news-description" data-aos="fade-up" data-aos-delay="200">
-          <h2>Woman's Empowerment</h2>
+          <h2>تمكين المرأة</h2>
           <p data-aos="fade-up" data-aos-delay="300">
-            Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+          جانب من ورش العمل التثقيفية للجمعيات المختارة لمشاريع تمكين المرأة بولاية الخرطوم ، ، الهدف العام للمشروع تقليل حدة الفقرمن خلال التدريب وتمليكهم وسائل كسب العيش وربطهم بمؤسسات التمويل المشروع استهدف تكوين 50 جمعية نسوية بجميع محليات ولاية الخرطوم ربما تحتوي الصورة على: ‏‏‏٣‏ أشخاص‏، و‏‏‏‏أشخاص يجلسون‏، و‏‏طاولة‏، و‏طفل‏‏‏ و‏منظر داخلي‏‏‏‏.
           </p>
         </div>
       </div>

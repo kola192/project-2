@@ -10,12 +10,12 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">Pictures</h2>
+          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">معرض الصور</h2>
           <ol>
-            <li><a href="index.php">Home</a></li>
-            <li>Pictures</li>
-            <li><a href="videos.php">Videos</a></li>
-            <li><a href="posts.php">Posts</a></li>
+            <li><a href="index.php">الرئيسية</a></li>
+            <li>الصور</li>
+            <li><a href="videos.php">الفيديوهات</a></li>
+            <li><a href="posts.php">المنشورات</a></li>
           </ol>
         </div>
 
@@ -27,7 +27,7 @@
       <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2000">
 
         <header class="section-header">
-          <h3 class="section-title">Gallery</h3>
+          <h3 class="section-title">معرض الصور</h3>
         </header>
 
         <div class="row news-container pictures-container" data-aos="fade-up" data-aos-delay="200">

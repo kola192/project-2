@@ -91,41 +91,39 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header wow fadeInUp">
-          <h3>Services</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus, ad pro quaestio laboramus. Ei ubique vivendum pro. At ius nisl accusam lorenta zanos paradigno tridexa panatarel.</p>
+          <h3>الخدمات</h3>
+          <p>يُعرَفُ العمل التّطوعي بأنّهُ الجهدُ الذي يبذلهُ فردٌ أو مجموعةٌ من الأفراد من تلقاء أنفسهم لا جبراً أو إكراهاً، ودون انتظارِ مردودٍ ماديّ منه، سواء أكان الجهدُ المبذول فكريّاً أم بدنيّاً أم ماديّاً أم اجتماعياً، في سبيل أخذ الأجرِ والثّواب من الله تعالى، ورفعة المجتمع وتنميته و هذا ما نقدمه في مركز ريادة الطوعي</p>
         </header>
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href="">Organizations training program</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-          </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-            <h4 class="title"><a href="">Training workshops</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <h4 class="title">البرنامج التدريبي للمنظمات</h4>
+            <p class="description lead">تدريب اكثر من 100 من المنظمات الوطنية في تعزيز دور المنظمات الوطنية في حماية الاطفال تدريب 30 منظمة في الدعم النفسي للأطفال و فن التفاوض وكتابة التقرير تدريب 25 منظمة في آليات حفوق الإنسان الخاصة بالطفل وكتابة التقارير تدريب عدد 30 منظمة في حقوق الطفل</p>
           </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
+      
+          <div class="col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href="">Institutional training courses</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <h4 class="title">دورات تدريبية للمؤسسات</h4>
+            <p class="description lead">تريب عدد 45 من الشرطة على الحقوق والتدابير الخاصة بالاحداث
+تدريب اكثر من 300 من اللجان القاعدية في المشورة المجتمعية وفن التفاوض وحل النزاعات .
+تدريب عدد من الادارات التعليمية على طرق ومناهج دراسة الحالة واعداد التقارير</p>
           </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="fa fa-venus" aria-hidden="true"></i></div>
-            <h4 class="title"><a href="">Women's Empowerment</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+
+          <div class="col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title">الورش التدريبية</h4>
+            <p class="description lead">تدريب 185 من الباحثيين الاجتماعيين واللجان المجتمعية في قانون الطفل وطرق التعامل مع الاطفال وقواعد السلوك .
+تدريب اكثر من 150 من المعلمين في قانون الطفل وتعزيز دور المعلم في حماية الاطفال .
+تدريب عدد من القيادات المجتمعية في المشورة المجتمعية وفن التفاوض وحل النزاعات
+برامج توعية مجتمعية</p>
           </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon"><i class="ion-ios-heart-outline"></i></div>
-            <h4 class="title"><a href="">Peace</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-          </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
+          
+          <div class="col-md-6 box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="ion-ios-people-outline"></i></div>
-            <h4 class="title"><a href="">Community awareness programs</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <h4 class="title">برامج توعية مجتمعية</h4>
+            <p class="description lead">استهداف اكثر من 50 مجتمع ببرامج التوعية في مجال حقوق الاطفال وقانون الطفل السوداني ودور المجتمعات والمكونات الشعبية في نشر ثقافة حقوق الطفل وطرق الوقاية والحماية والتعامل مع شرائح الاطفال المختلفة وكيفية ادماج الاطفال في الحالات الخاصة واعدتهم الى المجتمع</p>
           </div>
 
         </div>
@@ -141,21 +139,22 @@
         <div class="row" data-aos="fade-up"data-aos-delay="200">
 
           <div class="col-lg-4 box">
-            <i class="ion-ios-bookmarks-outline"></i>
-            <h4 class="title text-center"><a href="">awareness programs</a></h4>
-            <p class="description text-center">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <i class="fa fa-venus" aria-hidden="true"></i>
+            <h4 class="title text-center"><a href=""> تمكين المرأة</a></h4>
+            <p class="description lead text-center">الهدف العام للمشروع تقليل حدة الفقرمن خلال التدريب وتمليكهم وسائل كسب العيش وربطهم بمؤسسات التمويل المشروع استهدف تكوين 50 جمعية نسوية بجميع محليات ولاية الخرطوم</p>
           </div>
 
           <div class="col-lg-4 box">
-            <i class="fa fa-venus" aria-hidden="true"></i>
-            <h4 class="title text-center"><a href="">Women's Empowerment</a></h4>
-            <p class="description text-center">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <i class="ion-ios-people-outline"></i>
+            <h4 class="title text-center"><a href="">برامج توعية مجتمعية</a></h4>
+            <p class="description lead text-center">
+استهداف اكثر من 50 مجتمع ببرامج التوعية في مجال حقوق الاطفال وقانون الطفل السوداني ودور المجتمعات والمكونات الشعبية في نشر ثقافة حقوق الطفل وطرق الوقاية والحماية والتعامل مع شرائح الاطفال المختلفة وكيفية ادماج الاطفال في الحالات الخاصة واعدتهم الى المجتمع</p>
           </div>
 
           <div class="col-lg-4 box">
             <i class="ion-ios-heart-outline"></i>
-            <h4 class="title text-center"><a href="">Peace</a></h4>
-            <p class="description text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <h4 class="title text-center"><a href="">بناء السلام</a></h4>
+            <p class="description lead text-center">الهدف العام هو بناء قدرات المرأة في حل النزاعات وبناء السلام لتمكين المرأة من أجل المساهمة في القرارات تؤثر بشكل مباشر على حياتها وعلاقاتها وتعزيز دور المرأة في حل النزاعات وبناء السلام والاستقرار</p>
           </div>
 
         </div>
@@ -168,19 +167,19 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h3 class="section-title">News</h3>
+          <h3 class="section-title">اخر الأخبار</h3>
         </header>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class=" col-lg-12">
             <ul id="news-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-redSea">Red Sea</li>
-              <li data-filter=".filter-whiteNile">White Nile</li>
-              <li data-filter=".filter-blueNile">Blur Nile</li>
-              <li data-filter=".filter-northDarfour">North Darfour</li>
-              <li data-filter=".filter-westDarfour">West Darfour</li>
-              <li data-filter=".filter-khartoum">Khartoum</li>
+              <li data-filter="*" class="filter-active">الكل</li>
+              <li data-filter=".filter-redSea">البحر الأحمر</li>
+              <li data-filter=".filter-whiteNile">النيل الأبيض</li>
+              <li data-filter=".filter-blueNile">النيل الأزرق</li>
+              <li data-filter=".filter-northDarfour">شمال دارفور</li>
+              <li data-filter=".filter-westDarfour">غرب دارفور</li>
+              <li data-filter=".filter-khartoum">الخرطوم</li>
             </ul>
           </div>
         </div>
@@ -195,8 +194,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -209,8 +208,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -223,8 +222,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -237,8 +236,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -251,8 +250,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -265,8 +264,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -279,8 +278,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -293,8 +292,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -307,8 +306,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -321,8 +320,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -335,8 +334,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -349,8 +348,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -363,8 +362,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -377,8 +376,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -391,8 +390,8 @@
                 <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="news-info">
-                <h4><a href="news-details.php">News Title</a></h4>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa provident sunt illo!</p>
+                <h4><a href="news-details.php">عنوان الخبر</a></h4>
+                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
               </div>
             </div>
           </div>
@@ -407,7 +406,7 @@
     <!-- Partners Section -->
     <section class="partners">
       <div class="container" data-aos="fade-up"data-aos-delay="100">
-          <h3 class="text-center wow fadeInUp">Partners</h3>
+          <h3 class="text-center wow fadeInUp">شركاء النجاح</h3>
           <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
                   <div class="carousel-item active">

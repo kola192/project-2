@@ -8,7 +8,10 @@
 
       <div class="section-header">
         <h3>Contact Us</h3>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+
+        <!-- uncomment this if you want to add some text before the form -->
+        <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p> -->
+      
       </div>
 
       <div class="row contact-info">
@@ -16,7 +19,7 @@
         <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2000">
           <div class="contact-address">
             <i class="ion-ios-location-outline"></i>
-            <h3>Address</h3>
+            <h3>العنوان</h3>
             <address>A108 Adam Street, NY 535022, USA</address>
           </div>
         </div>
@@ -24,7 +27,7 @@
         <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2200">
           <div class="contact-phone">
             <i class="ion-ios-telephone-outline"></i>
-            <h3>Phone Number</h3>
+            <h3>الهاتف</h3>
             <p><a href="tel:+155895548855">+249 111094895</a></p>
           </div>
         </div>
@@ -32,7 +35,7 @@
         <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2400">
           <div class="contact-email">
             <i class="ion-ios-email-outline"></i>
-            <h3>Email</h3>
+            <h3>البريد الالكتروني</h3>
             <p><a href="mailto:info@reyada.org">info@reyada.org</a></p>
           </div>
         </div>

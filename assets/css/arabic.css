@@ -25,4 +25,8 @@
 
 .header > div > div > div > nav > ul > li.d-flex.text-white.align-items-center.justify-content-between > span {
     margin: 0 5px;
+}
+
+.mobile-nav a {
+    text-align: right;
   }
