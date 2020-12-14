@@ -1,6 +1,12 @@
 *, html, body {
-    font-family: 'Almarai', sans-serif;
+    font-family: 'Cairo', sans-serif;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cairo', sans-serif !important;
+    margin: 0 0 20px 0;
+    padding: 0;
+  }
 
 .header > div > div > div > nav > ul {
     flex-direction: row-reverse;
@@ -32,8 +38,7 @@
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-    color: var(--prim-clr);
-    padding-right: .1em;
+    padding-right: 1em;
 }
 
 .nav-menu .drop-down ul {
