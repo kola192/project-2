@@ -1,6 +1,9 @@
-<!-- including header -->
-<?php include('../includes/header-two.php') ?>
+<!-- including social-header -->
+<?php include('../includes/social-header.php')?>
 
+
+<!-- including header -->
+<?php include('../includes/header.php')?>
 
   <main id="main">
 
