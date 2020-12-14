@@ -29,4 +29,13 @@
 
 .mobile-nav a {
     text-align: right;
-  }
+}
+
+.nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
+    color: var(--prim-clr);
+    padding-right: .1em;
+}
+
+.nav-menu .drop-down ul {
+    left: calc(14px - 100%);
+}

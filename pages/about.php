@@ -1,5 +1,9 @@
+<!-- including social-header -->
+<?php include('../includes/social-header.php')?>
+
+
 <!-- including header -->
-<?php include('../includes/header-two.php') ?>
+<?php include('../includes/header.php')?>
 
 
 <!-- ======= About Us Section ======= -->
