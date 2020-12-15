@@ -48,7 +48,7 @@
 
       <div class="row justify-content-center">
         <div class="col-xl-11 d-flex align-items-center">
-          <!-- Uncomment below if you prefer to use an image logo -->
+          <!-- Uncomment below if you prefer to use text as a logo -->
           <!-- <h1 class="logo mr-auto"><a href="index.php">Reyada</a></h1> -->
           <a href="index.php" class="logo mr-auto"><img src="../assets/img/logo.jpg" alt="" class="img-fluid"></a>
 
