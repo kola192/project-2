@@ -15,7 +15,6 @@
         <img src="../assets/img/slider/slider1.jpg" alt="" title="#slider-direction-1" />
         <img src="../assets/img/slider/slider2.jpg" alt="" title="#slider-direction-2" />
         <img src="../assets/img/slider/slider3.jpg" alt="" title="#slider-direction-3" />
-        <img src="../assets/img/slider/slider4.jpg" alt="" title="#slider-direction-4" />
       </div>
 
       <!-- direction 1 -->
@@ -80,7 +79,7 @@
                 </div>
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow animate__slideInUp animate__animated" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1"> الهدف العام هو بناء قدرات المرأة في حل النزاعات وبناء السلام لتمكين المرأة من أجل المساهمة في القرارات تؤثر بشكل مباشر على حياتها وعلاقاتها وتعزيز دور المرأة في حل النزاعات وبناء السلام والاستقرار </h4>
+                  <h4 class="title1"> الهدف العام هو بناء قدرات المرأة في حل النزاعات وبناء السلام لتمكين المرأة من أجل المساهمة في القرارات تؤثر بشكل مباشر على حياتها وعلاقاتها وتعزيز دور المرأة في حل النزاعات وبناء السلام والاستقرار </h4>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow animate__slideInUp animate__animated" data-wow-duration="2s" data-wow-delay=".2s">

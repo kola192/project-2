@@ -1,5 +1,5 @@
 <!-- header-social -->
-<div class="header-social">
+<div class="header-social d-none d-lg-block">
     <ul class="social-menu">
       <li class="social-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li>
       <li class="social-item"><a href="#" class="social-link"><i class="fa fa-facebook"></i></a></li>

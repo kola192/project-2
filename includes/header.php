@@ -55,7 +55,13 @@
           <nav class="nav-menu d-none d-lg-block">
             <ul class="align-items-center">
               <li class="active"><a href="index.php">الرئيسية</a></li>
-              <li><a href="about.php">عن ريادة</a></li>
+              <li class="drop-down"><a href="#">عن ريادة</a>
+                <ul>
+                  <li><a href="about.php">نبذة عن مركز ريادة</a></li>
+                  <li><a href="vision.php">الرؤيا و الرسالة والقيم</a></li>
+                  <!-- <li><a href="posts.php">المنشورات</a></li> -->
+                </ul>
+              </li>
               <li><a href="index.php#services">الخدمات</a></li>
               <li class="drop-down"><a href="#">البرامج</a>
                 <ul>
