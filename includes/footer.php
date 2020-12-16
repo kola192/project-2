@@ -95,6 +95,25 @@
       padding: {
         left : 0,
         right: '4rem',
+      },
+      breakpoints: {
+        992: {
+          perPage: 3,
+        },
+        768: {
+          perPage: 2,
+          padding: {
+            left : '2rem',
+            right: '2rem',
+          },
+        },
+        420: {
+          perPage: 1,
+          padding: {
+            left : '4rem',
+            right: '2rem',
+          },
+        },
       }, 
     } ).mount();
   </script>

@@ -122,6 +122,10 @@ h1, h2, h3, h4, h5, h6 {
 # Social-Header
 --------------------------------------------------------------*/
 .header-social {
+  background-image: url(../img/patterns/Pattern.png);
+  background-repeat: repeat;
+  background-size: 15em;
+  background-blend-mode: multiply;
   background-color: var(--prim-clr);
 }
 
@@ -150,11 +154,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 8px 0;
-  background-image: url(../img/patterns/Pattern.png);
-  background-repeat: repeat;
-  background-size: 15em;
-  background-blend-mode: multiply;
-  background-color: var(--sec-clr-light); 
+  background-color: #f7f7f7; 
   box-shadow: 0px 0px 10px rgba(127, 137, 161, 0.5);
 }
 
@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
   visibility: hidden;
   padding: 10px 0;
-  background: #f3f3f3e0;
+  background: #fcfafaee;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 1s ease;
 }
@@ -342,7 +342,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #f9f9f9dc;
+  background: #f9f9f9fa;
   transition: ease-in .85s;
   opacity: 0;
   visibility: hidden;
