@@ -172,7 +172,7 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h3 class="section-title">اخر الأخبار</h3>
+          <h3 class="section-title">آخر الأخبار</h3>
         </header>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -283,48 +283,29 @@
     </section><!-- End News Section -->
 
 
-    <!-- Partners Section -->
-    <!-- <section class="partners">
-      <div class="container" data-aos="fade-up"data-aos-delay="100">
-          <h3 class="text-center wow fadeInUp">شركاء النجاح</h3>
-          <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-              <div class="carousel-inner">
-                  <div class="carousel-item active">
-                      <div class="wrapper" data-aos="fade-up" data-aos-delay="200">
-                          <div class="undp">
-                              <img src="../assets/img/undp.jpg" alt="undp">
-                              <h4 data-aos="fade-up" data-aos-delay="300">UNDP</h4>
-                          </div>
-                          <div class="concordis">
-                              <img src="../assets/img/concordis.png" alt="concordis">
-                              <h4 data-aos="fade-up" data-aos-delay="300">Concordis</h4>
-                          </div>
-                          <div class="unhcr">
-                              <img src="../assets/img/unhcr.jpg" alt="unhcr">
-                              <h4 data-aos="fade-up" data-aos-delay="300">UNHCR</h4>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="carousel-item">
-                      <div class="wrapper">
-                          <div class="hac">
-                              <img src="../assets/img/HAC.jpg" alt="hunaniterian aid commision">
-                              <h4>HAC</h4>
-                          </div>
-                          <div class="save-children">
-                              <img src="../assets/img/save-the-children.png" alt="save the children">
-                              <h4>Save The Children</h4>
-                          </div>
-                          <div class="unicef">
-                              <img src="../assets/img/unicef.jpg" alt="unicef">
-                              <h4>UNICEF</h4>
-                          </div>
-                      </div> -->
-                  </div> <!-- carousel-item closing tag -->
-              </div> <!-- carousel-inner closing tag -->
-          </div> <!-- carousel closing tag -->
-      </div> <!-- container closing tag -->
-    </section> <!-- Partners Section closing tag -->
+    <!-- partners section -->
+    <section class="partners">
+      <div class="container">
+
+        <header class="section-header">
+          <h3 class="section-title">شركاء النجاح</h3>
+        </header>
+
+        <div class="splide mx-auto">
+          <div class="splide__track">
+            <ul class="splide__list">
+              <li class="splide__slide"><img src="../assets/img/HAC.jpg" alt="HAC"></li>
+              <li class="splide__slide"><img src="../assets/img/unicef.jpg" alt="unicef"></li>
+              <li class="splide__slide"><img src="../assets/img/concordis.png" alt="concordis"></li>
+              <li class="splide__slide"><img src="../assets/img/unhcr.jpg" alt="unhcr"></li>
+              <li class="splide__slide"><img src="../assets/img/save-the-children.png" alt="save-the-children"></li>
+              <li class="splide__slide"><img src="../assets/img/undp.jpg" alt="undp"></li>
+            </ul>
+          </div>
+        </div>
+
+      </div><!-- / container -->
+    </section>
 
 
   </main><!-- End #main -->

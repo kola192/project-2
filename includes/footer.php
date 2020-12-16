@@ -74,9 +74,30 @@
   <script src="../assets/vendor/nivo-slider/js/jquery.nivo.slider.js"></script>
   <script src="../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="../assets/vendor/aos/aos.js"></script>
+  <script src="../assets/js/splide.min.js"></script>
 
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script>
+
+  <!-- Initializing splide -->
+  <script>
+    let splide = new Splide( '.splide', {
+      perPage: 5,
+      perMove: 1,
+      type: 'loop',
+      width: '80%',
+      focus: 0,
+      pagination: false,
+      autoplay: true,
+      interval: 3000,
+      speed: 3000,
+      pauseOnHover: false,
+      padding: {
+        left : 0,
+        right: '4rem',
+      }, 
+    } ).mount();
+  </script>
 
 </body>
 

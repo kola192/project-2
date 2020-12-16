@@ -31,6 +31,7 @@
   <link href="../assets/vendor/nivo-slider/css/nivo-slider.css" rel="stylesheet">
   <link href="../assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="../assets/css/splide.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="../assets/css/style.css" rel="stylesheet">
@@ -39,7 +40,6 @@
   <link href="../assets/css/arabic.css" rel="stylesheet">
 
 </head>
-
 <body>
 
   <!-- ======= Header ======= -->

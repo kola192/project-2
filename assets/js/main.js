@@ -212,4 +212,9 @@
     aos_init();
   });
 
+  //Initiat owl carousel
+  var owl = $('.owl-carousel');
+  owl.owlCarousel();
+
+
 })(jQuery);
