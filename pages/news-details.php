@@ -1,3 +1,11 @@
+<?php 
+
+  $pageTitle = "Reyada | عنوان الخبر";
+  $pageName = " المنشورات";
+  $pageHeading = "المنشورات";
+  
+?>
+
 <!-- including social-header -->
 <?php include('../includes/social-header.php')?>
 
@@ -5,29 +13,18 @@
 <!-- including header -->
 <?php include('../includes/header.php')?>
 
+
+<!-- including page title -->
+<?php include('../includes/title.php')?>
+
   <main id="main">
 
-    <!-- ======= Breadcrumbs Section ======= -->
-    <section class="breadcrumbs">
-      <div class="container">
-
-        <div class="d-flex justify-content-between align-items-center">
-          <h2  data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">News title</h2>
-          <ol>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="posts.php">news</a></li>
-            <li>News title</li>
-          </ol>
-        </div>
-
-      </div>
-    </section><!-- Breadcrumbs Section -->
 
     <!-- ======= news Details Section ======= -->
     <section class="news-details">
       <div class="container">
 
-        <div class="news-details-container" data-aos="fade-up" data-aos-delay="2100">
+        <div class="news-details-container" data-aos="fade-up" data-aos-delay="100">
 
           <div class="owl-carousel news-details-carousel">
             <img src="https://source.unsplash.com/user/erondu/1600x600" class="img-fluid" alt="">
