@@ -1,3 +1,11 @@
+<?php 
+
+  $pageTitle = "Reyada | معرض الصور";
+  $pageName = "الصور";
+  $pageHeading = "معرض الصور";
+  
+?>
+
 <!-- including social-header -->
 <?php include('../includes/social-header.php')?>
 
@@ -6,29 +14,17 @@
 <?php include('../includes/header.php')?>
 
 
+<!-- including page title -->
+<?php include('../includes/title.php')?>
+
+
 
   <main id="main">
 
-    <!-- ======= Breadcrumbs Section ======= -->
-    <section class="breadcrumbs">
-      <div class="container">
-
-        <div class="d-flex justify-content-between align-items-center">
-          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">معرض الصور</h2>
-          <ol>
-            <li><a href="index.php">الرئيسية</a></li>
-            <li>الصور</li>
-            <li><a href="videos.php">الفيديوهات</a></li>
-            <li><a href="posts.php">المنشورات</a></li>
-          </ol>
-        </div>
-
-      </div>
-    </section><!-- End Breadcrumbs Section -->
 
     <!-- ======= Pictures Section ======= -->
     <section id="news" class="pictures section-bg">
-      <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2000">
+      <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="200">
 
         <header class="section-header">
           <h3 class="section-title">معرض الصور</h3>

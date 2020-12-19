@@ -1,3 +1,6 @@
+<!-- page title -->
+<?php $pageTitle = "Reyada | الرئيسية"; ?>
+
 <!-- including social-header -->
 <?php include('../includes/social-header.php')?>
 
@@ -33,8 +36,8 @@
                   </div>
                   <!-- layer 3 -->
                   <div class="layer-1-3 hidden-xs wow animate__slideInUp animate__animated" data-wow-duration="2s" data-wow-delay=".2s">
-                    <a class="ready-btn right-btn page-scroll" href="#services">ماذا نفعل؟</a>
-                    <a class="ready-btn page-scroll mr-5" href="#about">عن ريادة</a>
+                    <a class="ready-btn right-btn page-scroll" href="index.php#services">ماذا نفعل؟</a>
+                    <a class="ready-btn page-scroll mr-5" href="about.php">عن ريادة</a>
                   </div>
                 </div>
               </div>
@@ -58,8 +61,8 @@
                   </div>
                   <!-- layer 3 -->
                   <div class="layer-1-3 hidden-xs wow animate__slideInUp animate__animated" data-wow-duration="2s" data-wow-delay=".2s">
-                    <a class="ready-btn right-btn page-scroll" href="#services">ماذا نفعل</a>
-                    <a class="ready-btn page-scroll mr-5" href="#about">عن ريادة</a>
+                    <a class="ready-btn right-btn page-scroll" href="index.php#services">ماذا نفعل</a>
+                    <a class="ready-btn page-scroll mr-5" href="about.php">عن ريادة</a>
                   </div>
                 </div>
               </div>
@@ -83,8 +86,8 @@
                   </div>
                   <!-- layer 3 -->
                   <div class="layer-1-3 hidden-xs wow animate__slideInUp animate__animated" data-wow-duration="2s" data-wow-delay=".2s">
-                    <a class="ready-btn right-btn page-scroll" href="#services">ماذا نفعل؟</a>
-                    <a class="ready-btn page-scroll mr-5" href="#about">عن المنظمة</a>
+                    <a class="ready-btn right-btn page-scroll" href="index.php#services">ماذا نفعل؟</a>
+                    <a class="ready-btn page-scroll mr-5" href="about.php">عن المنظمة</a>
                   </div>
                 </div>
               </div>
@@ -95,8 +98,6 @@
     </div>
     <!-- End Slider -->
     
-    <!-- preloader -->
-    <div class="preloader"></div>
 
 
   <main id="main">
@@ -172,7 +173,7 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h3 class="section-title">آخر الأخبار</h3>
+          <h3 class="section-title">اخر الأخبار</h3>
         </header>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">

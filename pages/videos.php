@@ -1,3 +1,11 @@
+<?php 
+
+  $pageTitle = "Reyada | الفيديو";
+  $pageName = " الفيديو";
+  $pageHeading = "الفيديو";
+  
+?>
+
 <!-- including social-header -->
 <?php include('../includes/social-header.php')?>
 
@@ -6,32 +14,19 @@
 <?php include('../includes/header.php')?>
 
 
+<!-- including page title -->
+<?php include('../includes/title.php')?>
+
 
 <main id="main">
 
-    <!-- ======= Breadcrumbs Section ======= -->
-    <section class="breadcrumbs">
-      <div class="container">
-
-        <div class="d-flex justify-content-between align-items-center">
-          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">الفيديوهات</h2>
-          <ol>
-            <li><a href="index.php">الرئيسية</a></li>
-            <li><a href="pictures.php">الصور</a></li>
-            <li>الفيديوهات</li>
-            <li><a href="posts.php">المنشورات</a></li>
-          </ol>
-        </div>
-
-      </div>
-    </section><!-- End Breadcrumbs Section -->
 
     <!-- ======= Videos Section ======= -->
     <section id="news" class="pictures videos section-bg">
       <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2000">
 
         <header class="section-header">
-          <h3 class="section-title">الفيديوهات</h3>
+          <h3 class="section-title">الفيديو</h3>
         </header>
 
         <div class="row news-container" data-aos="fade-up" data-aos-delay="200">

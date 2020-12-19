@@ -1,3 +1,11 @@
+<?php 
+
+  $pageTitle = "Reyada | اتصل بنا";
+  $pageName = "اتصل بنا";
+  $pageHeading = "اتصل بنا";
+  
+?>
+
 <!-- including social-header -->
 <?php include('../includes/social-header.php')?>
 
@@ -5,12 +13,16 @@
 <!-- including header -->
 <?php include('../includes/header.php')?>
 
+
+<!-- including page title -->
+<?php include('../includes/title.php')?>
+
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="section-bg">
-    <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="1900">
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
 
       <div class="section-header">
-        <h3>Contact Us</h3>
+        <h3>اتصل بنا</h3>
 
         <!-- uncomment this if you want to add some text before the form -->
         <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p> -->
@@ -19,7 +31,7 @@
 
       <div class="row contact-info">
 
-        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2000">
+        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="200">
           <div class="contact-address">
             <i class="ion-ios-location-outline"></i>
             <h3>العنوان</h3>
@@ -27,7 +39,7 @@
           </div>
         </div>
 
-        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2200">
+        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="400">
           <div class="contact-phone">
             <i class="ion-ios-telephone-outline"></i>
             <h3>الهاتف</h3>
@@ -35,7 +47,7 @@
           </div>
         </div>
 
-        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="2400">
+        <div class="col-md-4" data-aos="fade-up" data-aos="fade-up" data-aos-delay="600">
           <div class="contact-email">
             <i class="ion-ios-email-outline"></i>
             <h3>البريد الالكتروني</h3>
@@ -70,7 +82,7 @@
             <div class="error-message"></div>
             <div class="sent-message">Your message has been sent. Thank you!</div>
           </div>
-          <div class="text-center"><button type="submit">Send Message</button></div>
+          <div class="text-center"><button type="submit">أرسل</button></div>
         </form>
       </div>
 

@@ -1,3 +1,11 @@
+<?php 
+
+  $pageTitle = "Reyada | سلسلة برامج التوعية";
+  $pageName = "برامج التوعية";
+  $pageHeading = "سلسلة برامج التوعية";
+  
+?>
+
 <!-- including social-header -->
 <?php include('../includes/social-header.php')?>
 
@@ -6,41 +14,28 @@
 <?php include('../includes/header.php')?>
 
 
+<!-- including page title -->
+<?php include('../includes/title.php')?>
+
+
   <main id="main">
-
-    <!-- ======= Breadcrumbs Section ======= -->
-    <section class="breadcrumbs">
-      <div class="container">
-
-        <div class="d-flex justify-content-between align-items-center">
-          <h2 data-aos="fade-up" data-aos="fade-up" data-aos-delay="1600">سلسلة برامج التوعية</h2>
-          <ol>
-            <li><a href="index.php">الرئيسية</a></li>
-            <li><a href="peace.php">السلام</a></li>
-            <li><a href="woman.php">المرأة</a></li>
-            <li>التوعية</li>
-          </ol>
-        </div>
-
-      </div>
-    </section><!-- Breadcrumbs Section -->
 
     <!-- ======= news Details Section ======= -->
     <section class="news-details">
       <div class="container">
 
-        <div class="news-details-container" data-aos="fade-up" data-aos-delay="1700">
+        <div class="news-details-container" data-aos="fade-up" data-aos-delay="100">
 
           <div class="owl-carousel news-details-carousel">
-            <img src="../assets/img/awareness.jpg" class="img-fluid" alt="">
-            <img src="../assets/img/intro-carousel/carousel2.jpg" class="img-fluid" alt="">
+            <img src="../assets/img/awareness.jpg" class="img-fluid" alt="awareness">
+            <img src="../assets/img/woman.jpg" class="img-fluid" alt="awareness">
           </div>
 
         </div>
 
-        <div class="news-description" data-aos="fade-up" data-aos-delay="300">
-          <h2>سلسلة برامج التوعية</h2>
-          <p data-aos="fade-up" data-aos-delay="300">
+        <div class="news-description">
+          <h2 data-aos="fade-up" data-aos-delay="200">سلسلة برامج التوعية</h2>
+          <p data-aos="fade-up" data-aos-delay="400">
           جانب من سلسلة برامج التوعية في حماية الطفل ،التي يقوم بها مركز ريادة الطوعي.
           </p>
         </div>

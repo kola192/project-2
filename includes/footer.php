@@ -5,7 +5,7 @@
         <div class="row justify-content-between">
 
           <div class="col-lg-3 col-md-6 footer-info" data-aos="fade-up" data-aos-delay="200">
-          <a href="index.php" class="logo pl-0 mr-auto"><img src="../assets/img/logo.jpg" alt="" class="img-fluid"></a>
+            <a href="index.php" class="logo pl-0 mr-auto"><img src="../assets/img/logo.jpg" alt="" class="img-fluid"></a>
             <p>مركز ريادة الطوعي لبناء القدرات والدراسات والاستشارات. مركز متخصص في بناء القدرات والعمل الانساني ويهتم ببناء القدرات للمنظمات والمجتمعات القاعدية وزيادة فاعليتها واسهامها في حل المشكلات الاجتماعية عبر حزم من البرامج التدريبية والورش</p>
           </div>
 
@@ -31,11 +31,11 @@
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter" data-aos="fade-up" data-aos-delay="200"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook" data-aos="fade-up" data-aos-delay="300"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram" data-aos="fade-up" data-aos-delay="400"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus" data-aos="fade-up" data-aos-delay="500"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin" data-aos="fade-up" data-aos-delay="600"></i></a>
+              <a href="#" class="twitter" data-aos="fade-up" data-aos-delay="200"><i class="fa fa-twitter"></i></a>
+              <a href="#" class="facebook" data-aos="fade-up" data-aos-delay="300"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram" data-aos="fade-up" data-aos-delay="400"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="google-plus" data-aos="fade-up" data-aos-delay="500"><i class="fa fa-google-plus"></i></a>
+              <a href="#" class="linkedin" data-aos="fade-up" data-aos-delay="600"><i class="fa fa-linkedin"></i></a>
             </div>
 
           </div>
@@ -75,48 +75,14 @@
   <script src="../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="../assets/vendor/aos/aos.js"></script>
   <script src="../assets/js/splide.min.js"></script>
-
+  
+  
+  <!-- mySplide JS File -->
+  <script src="../assets/js/mySplide.js"></script>
+  
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script>
-
-  <!-- Initializing splide -->
-  <script>
-    let splide = new Splide( '.splide', {
-      perPage: 5,
-      perMove: 1,
-      type: 'loop',
-      width: '80%',
-      focus: 0,
-      pagination: false,
-      autoplay: true,
-      interval: 3000,
-      speed: 3000,
-      pauseOnHover: false,
-      padding: {
-        left : 0,
-        right: '4rem',
-      },
-      breakpoints: {
-        992: {
-          perPage: 3,
-        },
-        768: {
-          perPage: 2,
-          padding: {
-            left : '2rem',
-            right: '2rem',
-          },
-        },
-        420: {
-          perPage: 1,
-          padding: {
-            left : '4rem',
-            right: '2rem',
-          },
-        },
-      }, 
-    } ).mount();
-  </script>
+  
 
 </body>
 

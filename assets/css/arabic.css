@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header > div > div > div > nav > ul > li > a{
-    font-size: 1.1em;
+    font-size: .9em;
 }
 
 .header > div > div > div > nav > ul > li > ul > li > a {
@@ -35,7 +35,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav a,
 #services .description,
-#services .title {
+#services .title,
+.news-details .news-description  {
     text-align: right;
 }
 
@@ -46,3 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu .drop-down ul {
     left: calc(14px - 100%);
 }
+
+#about > div > header > p {
+    text-align: right;
+  }

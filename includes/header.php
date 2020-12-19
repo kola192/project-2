@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Reyada.org</title>
+  <title><?php echo $pageTitle; ?></title>
 
   <!-- important meta tags for SEO -->
   <meta content="" name="description">
@@ -33,6 +33,7 @@
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="../assets/css/splide.min.css" rel="stylesheet">
 
+
   <!-- Template Main CSS File -->
   <link href="../assets/css/style.css" rel="stylesheet">
 
@@ -58,8 +59,7 @@
               <li class="drop-down"><a href="#">عن ريادة</a>
                 <ul>
                   <li><a href="about.php">نبذة عن مركز ريادة</a></li>
-                  <li><a href="vision.php">الرؤيا و الرسالة والقيم</a></li>
-                  <!-- <li><a href="posts.php">المنشورات</a></li> -->
+                  <li><a href="vision.php">الرؤية والرسالة والقيم</a></li>
                 </ul>
               </li>
               <li><a href="index.php#services">الخدمات</a></li>
@@ -73,7 +73,7 @@
               <li class="drop-down"><a href="#">المعرض</a>
                 <ul>
                   <li><a href="pictures.php">الصور</a></li>
-                  <li><a href="videos.php">الفيديوهات</a></li>
+                  <li><a href="videos.php">الفيديو</a></li>
                   <li><a href="posts.php">المنشورات</a></li>
                 </ul>
               </li>              
