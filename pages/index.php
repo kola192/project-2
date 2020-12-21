@@ -106,28 +106,26 @@
     <section id="services">
       <div class="container" data-aos="fade-up">
 
-        <header class="section-header wow fadeInUp">
+      <header class="section-header wow fadeInUp">
           <h3>ما يقدمه مركز ريادة</h3>
           <p>يُعرَفُ العمل التّطوعي بأنّهُ الجهدُ الذي يبذلهُ فردٌ أو مجموعةٌ من الأفراد من تلقاء أنفسهم لا جبراً أو إكراهاً، ودون انتظارِ مردودٍ ماديّ منه، سواء أكان الجهدُ المبذول فكريّاً أم بدنيّاً أم ماديّاً أم اجتماعياً، في سبيل أخذ الأجرِ والثّواب من الله تعالى، ورفعة المجتمع وتنميته و هذا ما نقدمه في مركز ريادة الطوعي</p>
         </header>
 
         <div class="row">
 
-          <div class="box" data-aos="fade-up" data-aos-delay="300">
-            <div class="box-head">
-              <img src="../assets/img/logo.jpg" alt="logo">
-              <h6 class="box-head-title">البرنامج التدريبي للمنظمات</h6>
+          <div class="box" data-aos="fade-up" data-aos-delay="400">
+            <div class="box-head community">
+              <img src="../assets/img/services-icons/community.svg" alt="community">
             </div>
-              <div class="box-body">
-                <h4 class="title">البرنامج التدريبي للمنظمات</h4>
-                <p class="description lead">تدريب اكثر من 100 من المنظمات الوطنية في تعزيز دور المنظمات الوطنية في حماية الاطفال تدريب 30 منظمة في الدعم النفسي للأطفال و فن التفاوض وكتابة التقرير تدريب 25 منظمة في آليات حفوق الإنسان الخاصة بالطفل وكتابة التقارير تدريب عدد 30 منظمة في حقوق الطفل</p>
-              </div>
+            <div class="box-body">
+              <h4 class="title">برامج توعية مجتمعية</h4>
+              <p class="description lead">استهداف اكثر من 50 مجتمع ببرامج التوعية في مجال حقوق الاطفال وقانون الطفل السوداني ودور المجتمعات والمكونات الشعبية في نشر ثقافة حقوق الطفل وطرق الوقاية والحماية والتعامل مع شرائح الاطفال المختلفة وكيفية ادماج الاطفال في الحالات الخاصة واعدتهم الى المجتمع</p>
+            </div>
           </div>
       
           <div class="box" data-aos="fade-up" data-aos-delay="300">
-            <div class="box-head">
-              <img src="../assets/img/logo.jpg" alt="logo">
-              <h6 class="box-head-title">دورات تدريبية للمؤسسات</h6>
+            <div class="box-head institution">
+              <img src="../assets/img/services-icons/institution.svg" alt="institution">
             </div>
             <div class="box-body">
               <h4 class="title">دورات تدريبية للمؤسسات</h4>
@@ -137,10 +135,19 @@
             </div>
           </div>
 
+          <div class="box" data-aos="fade-up" data-aos-delay="300">
+            <div class="box-head organization">
+              <img src="../assets/img/services-icons/org.svg" alt="organization">
+            </div>
+              <div class="box-body">
+                <h4 class="title">البرنامج التدريبي للمنظمات</h4>
+                <p class="description lead">تدريب اكثر من 100 من المنظمات الوطنية في تعزيز دور المنظمات الوطنية في حماية الاطفال تدريب 30 منظمة في الدعم النفسي للأطفال و فن التفاوض وكتابة التقرير تدريب 25 منظمة في آليات حفوق الإنسان الخاصة بالطفل وكتابة التقارير تدريب عدد 30 منظمة في حقوق الطفل</p>
+              </div>
+          </div>
+
           <div class="box" data-aos="fade-up" data-aos-delay="200">
-            <div class="box-head">
-              <img src="../assets/img/logo.jpg" alt="logo">
-              <h6 class="box-head-title">الورش التدريبية</h6>
+            <div class="box-head coach">
+              <img src="../assets/img/services-icons/coach.svg" alt="coach">
             </div>
             <div class="box-body">
               <h4 class="title">الورش التدريبية</h4>
@@ -151,16 +158,6 @@
             </div>
           </div>
           
-          <div class="box" data-aos="fade-up" data-aos-delay="400">
-            <div class="box-head">
-              <img src="../assets/img/logo.jpg" alt="logo">
-              <h6 class="box-head-title">برامج توعية مجتمعية</h6>
-            </div>
-            <div class="box-body">
-              <h4 class="title">برامج توعية مجتمعية</h4>
-              <p class="description lead">استهداف اكثر من 50 مجتمع ببرامج التوعية في مجال حقوق الاطفال وقانون الطفل السوداني ودور المجتمعات والمكونات الشعبية في نشر ثقافة حقوق الطفل وطرق الوقاية والحماية والتعامل مع شرائح الاطفال المختلفة وكيفية ادماج الاطفال في الحالات الخاصة واعدتهم الى المجتمع</p>
-            </div>
-          </div>
 
         </div>
 
@@ -168,114 +165,66 @@
     </section><!-- End Services Section -->
 
 
+
     <!-- ======= News Section ======= -->
     <section id="news" class="section-bg">
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h3 class="section-title">اخر الأخبار</h3>
+          <h3 class="section-title">آخر الأخبار</h3>
         </header>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class=" col-lg-12">
-            <ul id="news-flters">
-              <li data-filter="*" class="filter-active">الكل</li>
-              <li data-filter=".filter-redSea">البحر الأحمر</li>
-              <li data-filter=".filter-whiteNile">النيل الأبيض</li>
-              <li data-filter=".filter-blueNile">النيل الأزرق</li>
-              <li data-filter=".filter-northDarfour">شمال دارفور</li>
-              <li data-filter=".filter-westDarfour">غرب دارفور</li>
-              <li data-filter=".filter-khartoum">الخرطوم</li>
-            </ul>
-          </div>
-        </div>
+        <div class="row py-5" data-aos="fade-up" data-aos-delay="100">
+      
+          <div class="col-md-6">
+            <div class="splide mx-auto">
+              <div class="splide__track">
+                <ul class="splide__list">
 
-        <div class="row news-container" data-aos="fade-up" data-aos-delay="200">
+                  <!-- single news box -->
+                  <li class="splide__slide">
+                    <div class="news-box">
+                      <div class="news-img">
+                        <img src="../assets/img/facts-bg.jpg" alt="news">
+                      </div>
+                      <div class="news-text">
+                        <a href="#"><h3 class="news-title">حملات تسجيل المواليد</h3></a>
+                        <p class="lead">ظلت قضية تدني تسجيل المواليد واحدة من القضايا الشائكة والمعقدة التي أرقت القائمين على أمرها</p>
+                      </div>
+                    </div>
+                  </li>
 
-          <div class="col-lg-4 col-md-6 news-item filter-redSea">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title=""><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-              <div class="news-info">
-                <h4><a href="news-details.php">عنوان الخبر</a></h4>
-                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
+                  <!-- single news box -->
+                  <li class="splide__slide">
+                    <div class="news-box">
+                      <div class="news-img">
+                        <img src="../assets/img/facts-bg.jpg" alt="news">
+                      </div>
+                      <div class="news-text">
+                        <a href="#"><h3 class="news-title">الاحتفال بتشغيل 375 من عمال ال</h3></a>
+                        <p class="lead">مشروع المشروعات الصغيرة للعمال العاطلين عن العمل بعد إدخال الماكينات الحديثة ، شراكة بين برنامج الام</p>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!-- single news box -->
+                  <li class="splide__slide">
+                    <div class="news-box">
+                      <div class="news-img">
+                        <img src="../assets/img/facts-bg.jpg" alt="news">
+                      </div>
+                      <div class="news-text">
+                        <a href="#"><h3 class="news-title">ورشة تدريب بعنوان</h3></a>
+                        <p class="lead">تستند حقوق الاطفال لعدد من الاطر التشريعية الوطنية ( قانون الطفل 2010) والاقليمية والدولية</p>
+                      </div>
+                    </div>
+                  </li>
+
+                </ul>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-whiteNile">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title=""><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-              <div class="news-info">
-                <h4><a href="news-details.php">عنوان الخبر</a></h4>
-                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-blueNile">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title=""><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-              <div class="news-info">
-                <h4><a href="news-details.php">عنوان الخبر</a></h4>
-                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-blueNile">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title=""><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-              <div class="news-info">
-                <h4><a href="news-details.php">عنوان الخبر</a></h4>
-                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-northDarfour">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title=""><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-              <div class="news-info">
-                <h4><a href="news-details.php">عنوان الخبر</a></h4>
-                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 news-item filter-khartoum">
-            <div class="news-wrap">
-              <figure>
-                <img src="../assets/img/news/web2.jpg" class="img-fluid" alt="">
-                <a href="../assets/img/news/web2.jpg" class="link-preview venobox" data-gall="newsGallery" title=""><i class="ion ion-eye"></i></a>
-                <a href="news-details.php" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-              <div class="news-info">
-                <h4><a href="news-details.php">عنوان الخبر</a></h4>
-                <p>أقام مركز ريادة بولاية النيل الازرق "الدمازين " ثلاث حلقات تدريبية لأطفال البرلمان حول ، لوائح</p>
-              </div>
-            </div>
-          </div>
-
+          <div class="col-md-6"></div>
 
         
         </div>
@@ -283,26 +232,21 @@
       </div>
     </section><!-- End News Section -->
 
-
     <!-- partners section -->
-    <section class="partners">
+    <section id="clients">
       <div class="container">
 
         <header class="section-header">
           <h3 class="section-title">شركاء النجاح</h3>
         </header>
 
-        <div class="splide mx-auto">
-          <div class="splide__track">
-            <ul class="splide__list">
-              <li class="splide__slide"><img src="../assets/img/HAC.jpg" alt="HAC"></li>
-              <li class="splide__slide"><img src="../assets/img/unicef.jpg" alt="unicef"></li>
-              <li class="splide__slide"><img src="../assets/img/concordis.png" alt="concordis"></li>
-              <li class="splide__slide"><img src="../assets/img/unhcr.jpg" alt="unhcr"></li>
-              <li class="splide__slide"><img src="../assets/img/save-the-children.png" alt="save-the-children"></li>
-              <li class="splide__slide"><img src="../assets/img/undp.jpg" alt="undp"></li>
-            </ul>
-          </div>
+        <div class="owl-carousel clients-carousel">
+          <img src="../assets/img/partners/HAC.jpg" alt="HAC">
+          <img src="../assets/img/partners/unicef.jpg" alt="unicef">
+          <img src="../assets/img/partners/concordis.png" alt="concordis">
+          <img src="../assets/img/partners/unhcr.jpg" alt="unhcr">
+          <img src="../assets/img/partners/save-the-children.png" alt="save-the-children">
+          <img src="../assets/img/partners/undp.jpg" alt="undp">
         </div>
 
       </div><!-- / container -->

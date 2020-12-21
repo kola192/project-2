@@ -51,3 +51,11 @@ h1, h2, h3, h4, h5, h6 {
 #about > div > header > p {
     text-align: right;
   }
+
+#services .box-head {
+    align-items: flex-end;
+}
+
+#news #news-flters {
+  flex-direction: row-reverse;
+}

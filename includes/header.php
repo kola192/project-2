@@ -60,6 +60,7 @@
                 <ul>
                   <li><a href="about.php">نبذة عن مركز ريادة</a></li>
                   <li><a href="vision.php">الرؤية والرسالة والقيم</a></li>
+                  <li><a href="creators.php">المؤسسين</a></li>
                 </ul>
               </li>
               <li><a href="index.php#services">الخدمات</a></li>
