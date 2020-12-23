@@ -12,15 +12,6 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: row-reverse;
 }
 
-.header > div > div > div > nav > ul > li > a{
-    font-size: .9em;
-}
-
-.header > div > div > div > nav > ul > li > ul > li > a {
-    text-align: right;
-    font-size: .9em;
-}
-
 .header > div > div > div > nav > ul > li.d-flex.text-white.align-items-center {
     font-size: .75em;
 }
@@ -36,7 +27,14 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a,
 #services .description,
 #services .title,
-.news-details .news-description  {
+.news-details .news-description,
+.splide__slide .news-box .news-text h3,
+#about > div > header > p,
+.splide__slide .news-box .news-text p,
+.current-body h3.current-title,
+.current-body p,
+#news .news-item .news-info,
+.header > div > div > div > nav > ul > li > ul > li > a {
     text-align: right;
 }
 
@@ -48,14 +46,31 @@ h1, h2, h3, h4, h5, h6 {
     left: calc(14px - 100%);
 }
 
-#about > div > header > p {
-    text-align: right;
+.mobile-nav .drop-down li {
+    margin-right: 2rem;
   }
 
 #services .box-head {
     align-items: flex-end;
 }
 
-#news #news-flters {
+#news #news-flters,
+.splide__slide .news-box {
   flex-direction: row-reverse;
+}
+
+.splide__slide .news-box .news-text {
+    padding-right: 1rem;
+    padding-left: 0;
+}
+
+
+#splide01 > div.splide__arrows > button.splide__arrow.splide__arrow--prev {
+    top: -3rem;
+    left: 60%;
+}
+  
+#splide01 > div.splide__arrows > button.splide__arrow.splide__arrow--next {
+    bottom: 2rem;
+    left: 60%;
 }
