@@ -4,7 +4,7 @@
 :root {
   --prim-clr: #84ce62;  
   --prime-clr-light: #edffe4;
-  --sec-clr: #9b3792;
+  --sec-clr: #701469;
   --sec-clr-light: #e4ffd7;
   --accent-clr: #485faa;
 }
@@ -139,7 +139,7 @@ body > div.vbox-overlay > div.vbox-container  {
   background-repeat: repeat;
   background-size: 15em;
   background-blend-mode: multiply;
-  background-color: var(--prim-clr);
+  background-color: #87c37e;
 }
 
 .header-social .social-menu {
@@ -257,6 +257,10 @@ body > div.vbox-overlay > div.vbox-container  {
 }
 
 @media (max-width: 992px) {
+  .header {
+    background: #fafafa;
+  }
+
   .header .logo {
     font-size: 28px;
   }
@@ -1069,7 +1073,7 @@ section {
 
 #services .box {
   padding: 0;
-  background: #ebf1f0;
+  background: #d1dfdc;
   border-radius: 10px;
   overflow: hidden;
   -webkit-box-shadow: 0px 2px 4px rgba(0,0,0,.15);
