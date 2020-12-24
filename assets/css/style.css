@@ -488,7 +488,7 @@ body > div.vbox-overlay > div.vbox-container  {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(26, 26, 26, 0.6);
+  background: #fafafa;
   overflow: hidden;
   display: none;
   transition: ease-in-out 0.2s;
@@ -501,10 +501,6 @@ body > div.vbox-overlay > div.vbox-container  {
 .mobile-nav-active .mobile-nav {
   opacity: 1;
   visibility: visible;
-}
-
-.mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
 }
 
 /*--------------------------------------------------------------
