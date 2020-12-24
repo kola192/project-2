@@ -421,7 +421,7 @@ body > div.vbox-overlay > div.vbox-container  {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #f9f9f9fa;
+  background: #fafafa;
   transition: ease-in .85s;
   opacity: 0;
   visibility: hidden;
