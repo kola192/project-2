@@ -1064,11 +1064,11 @@ section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 500px));
   justify-content: center;
-  gap: 4rem;
 }
 
 #services .box {
   padding: 0;
+  margin: 1.5rem;
   background: #d1dfdc;
   border-radius: 10px;
   overflow: hidden;
